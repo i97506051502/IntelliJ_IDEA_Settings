@@ -69,8 +69,8 @@
         <mark key="^" line="138" column="54" />
         <mark key="." line="138" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512031601614">
-        <mark key="[" line="161" column="32" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512032901590">
+        <mark key="[" line="151" column="25" />
         <mark key="]" line="161" column="34" />
         <mark key="^" line="161" column="34" />
         <mark key="." line="161" column="34" />
@@ -94,12 +94,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512015387006">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512032983210">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/templates/mock_api.custom.py" timestamp="1511849047123">
         <mark key="[" line="4" column="28" />
@@ -129,6 +129,12 @@
       <jump line="60" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" />
       <jump line="20" column="3" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="23" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="35" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="37" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -138,7 +144,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>django_debug_setting</text>
+        <text>.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcnZlciB7CiAgICAgICAgc2VydmVyX25hbWUgIGJpei57e2Vudmlyb25tZW50X3ByZWZpeH19emV1c25hdmkuY29tOwogICAgICAgIHJvb3QgICAgICAgICAvdXNyL3NoYXJlL25naW54L2h0bWw7CgogICAgICAgICMgTG9hZCBjb25maWd1cmF0aW9uIGZpbGVzIGZvciB0aGUgZGVmYXVsdCBzZXJ2ZXIgYmxvY2suCiAgICAgICAgaW5jbHVkZSAvZXRjL25naW54L2RlZmF1bHQuZC8qLmNvbmY7CgogICAgICAgIHJlc29sdmVyICB7e2F3c19kbnNfcmVzb2x2ZXJ9fTsKCiAgICAgICAgbG9jYXRpb24gQHMzIHsKICAgICAgICAgICAgc2V0ICRzM19ob3N0ICJiaXoue3tlbnZpcm9ubWVudF9wcmVmaXh9fXpldXNuYXZpLmNvbS5zMy13ZWJzaXRlLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20iOwogICAgICAgICAgICBwcm94eV9zZXRfaGVhZGVyICAgSG9zdCAkczNfaG9zdDsKICAgICAgICAgICAgcHJveHlfcGFzcyAgaHR0cDovLyRzM19ob3N0OwogICAgICAgIH0KCiAgICAgICAgbG9jYXRpb24gLyB7CiAgICAgICAgICAgIHRyeV9maWxlcyAkdXJpIEBzMzsKICAgICAgICB9CgogICAgICAgIGxvY2F0aW9uIEBwcm94eV90b19hcHAgewogICAgICAgICAgICBwcm94eV9zZXRfaGVhZGVyIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciBIb3N0ICRodHRwX2hvc3Q7CiAgICAgICAgICAgIHByb3h5X3JlZGlyZWN0IG9mZjsKICAgICAgICAgICAgcHJveHlfcGFzcyAgIGh0dHA6Ly9iaXpfYXBpOwogICAgICAgIH0KCiAgICAgICAgbG9jYXRpb24gL2FwaSB7CiAgICAgICAgICAgIHRyeV9maWxlcyAkdXJpIEBwcm94eV90b19hcHA7CiAgICAgICAgfQoKICAgICAgICAjIHJlZGlyZWN0IHNlcnZlciBlcnJvciBwYWdlcyB0byB0aGUgc3RhdGljIHBhZ2UgLzQweC5odG1sCiAgICAgICAgIwogICAgICAgIGVycm9yX3BhZ2UgNDA0IC80MDQuaHRtbDsKICAgICAgICAgICAgbG9jYXRpb24gPSAvNDB4Lmh0bWwgewogICAgICAgIH0KCiAgICAgICAgIyByZWRpcmVjdCBzZXJ2ZXIgZXJyb3IgcGFnZXMgdG8gdGhlIHN0YXRpYyBwYWdlIC81MHguaHRtbAogICAgICAgICMKICAgICAgICBlcnJvcl9wYWdlIDUwMCA1MDIgNTAzIDUwNCAvNTB4Lmh0bWw7CiAgICAgICAgICAgIGxvY2F0aW9uID0gLzUweC5odG1sIHsKICAgICAgICB9CiAgICB9Cg==</text>
@@ -172,9 +178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>django_debug_setting</last-search>
+      <last-search>.log</last-search>
       <last-offset />
-      <last-pattern>django_debug_setting</last-pattern>
+      <last-pattern>.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -182,6 +188,7 @@
       <history-search>
         <entry>aws_secret_access_key</entry>
         <entry>django_debug_setting</entry>
+        <entry>.log</entry>
       </history-search>
       <history-cmd />
       <history-expr />
