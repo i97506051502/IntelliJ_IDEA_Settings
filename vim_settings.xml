@@ -17,12 +17,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1511947548680">
-        <mark key="'" line="35" column="23" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1512456315540">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1511850388901">
         <mark key="[" line="35" column="48" />
@@ -37,12 +37,12 @@
         <mark key="]" line="35" column="19" />
         <mark key="." line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1511862318018">
-        <mark key="'" line="78" column="28" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1512456216806">
+        <mark key="'" line="83" column="28" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="49" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1511861795035">
         <mark key="[" line="55" column="0" />
@@ -50,12 +50,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1511947503038">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1512456206588">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="65" column="24" />
-        <mark key="^" line="65" column="24" />
-        <mark key="." line="65" column="24" />
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/hoge" timestamp="1511922606588">
         <mark key="[" line="0" column="0" />
@@ -81,11 +81,12 @@
         <mark key="." line="73" column="7" />
         <mark key="^" line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1511861213527">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="57" column="12" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1512456225649">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="68" />
+        <mark key="^" line="67" column="45" />
+        <mark key="." line="67" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
@@ -94,12 +95,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512032983210">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="45" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512456203561">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/templates/mock_api.custom.py" timestamp="1511849047123">
         <mark key="[" line="4" column="28" />
@@ -135,46 +136,50 @@
       <jump line="32" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="35" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="37" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>django.core.mail.backends.console.EmailBackend'</text>
       </register>
       <register name="/" type="4">
         <text>.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciB7CiAgICAgICAgc2VydmVyX25hbWUgIGJpei57e2Vudmlyb25tZW50X3ByZWZpeH19emV1c25hdmkuY29tOwogICAgICAgIHJvb3QgICAgICAgICAvdXNyL3NoYXJlL25naW54L2h0bWw7CgogICAgICAgICMgTG9hZCBjb25maWd1cmF0aW9uIGZpbGVzIGZvciB0aGUgZGVmYXVsdCBzZXJ2ZXIgYmxvY2suCiAgICAgICAgaW5jbHVkZSAvZXRjL25naW54L2RlZmF1bHQuZC8qLmNvbmY7CgogICAgICAgIHJlc29sdmVyICB7e2F3c19kbnNfcmVzb2x2ZXJ9fTsKCiAgICAgICAgbG9jYXRpb24gQHMzIHsKICAgICAgICAgICAgc2V0ICRzM19ob3N0ICJiaXoue3tlbnZpcm9ubWVudF9wcmVmaXh9fXpldXNuYXZpLmNvbS5zMy13ZWJzaXRlLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20iOwogICAgICAgICAgICBwcm94eV9zZXRfaGVhZGVyICAgSG9zdCAkczNfaG9zdDsKICAgICAgICAgICAgcHJveHlfcGFzcyAgaHR0cDovLyRzM19ob3N0OwogICAgICAgIH0KCiAgICAgICAgbG9jYXRpb24gLyB7CiAgICAgICAgICAgIHRyeV9maWxlcyAkdXJpIEBzMzsKICAgICAgICB9CgogICAgICAgIGxvY2F0aW9uIEBwcm94eV90b19hcHAgewogICAgICAgICAgICBwcm94eV9zZXRfaGVhZGVyIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciBIb3N0ICRodHRwX2hvc3Q7CiAgICAgICAgICAgIHByb3h5X3JlZGlyZWN0IG9mZjsKICAgICAgICAgICAgcHJveHlfcGFzcyAgIGh0dHA6Ly9iaXpfYXBpOwogICAgICAgIH0KCiAgICAgICAgbG9jYXRpb24gL2FwaSB7CiAgICAgICAgICAgIHRyeV9maWxlcyAkdXJpIEBwcm94eV90b19hcHA7CiAgICAgICAgfQoKICAgICAgICAjIHJlZGlyZWN0IHNlcnZlciBlcnJvciBwYWdlcyB0byB0aGUgc3RhdGljIHBhZ2UgLzQweC5odG1sCiAgICAgICAgIwogICAgICAgIGVycm9yX3BhZ2UgNDA0IC80MDQuaHRtbDsKICAgICAgICAgICAgbG9jYXRpb24gPSAvNDB4Lmh0bWwgewogICAgICAgIH0KCiAgICAgICAgIyByZWRpcmVjdCBzZXJ2ZXIgZXJyb3IgcGFnZXMgdG8gdGhlIHN0YXRpYyBwYWdlIC81MHguaHRtbAogICAgICAgICMKICAgICAgICBlcnJvcl9wYWdlIDUwMCA1MDIgNTAzIDUwNCAvNTB4Lmh0bWw7CiAgICAgICAgICAgIGxvY2F0aW9uID0gLzUweC5odG1sIHsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn6L+95Yqg44GV44KM44GfIEF0dHJpYnV0ZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5X2ZpbGVzICR1cmkgQHMzOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbiAvIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5X2ZpbGVzICR1cmkgQHMzOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbiAvIHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfcGFzcyAgaHR0cDovLyRzM19ob3N0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgJHMzX2hvc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0ICRzM19ob3N0ICJiaXoue3tlbnZpcm9ubWVudF9wcmVmaXh9fXpldXNuYXZpLmNvbS5zMy13ZWJzaXRlLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfcGFzcyAgaHR0cDovLyRzM19ob3N0Owo=</text>
       </register>
     </registers>
     <search>
