@@ -17,12 +17,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1512456315540">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1512457783055">
         <mark key="'" line="40" column="23" />
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="29" column="49" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="49" />
+        <mark key="[" line="30" column="101" />
+        <mark key="]" line="30" column="101" />
+        <mark key="." line="30" column="101" />
+        <mark key="^" line="30" column="101" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1511850388901">
         <mark key="[" line="35" column="48" />
