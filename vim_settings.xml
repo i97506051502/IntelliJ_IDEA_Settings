@@ -11,12 +11,12 @@
       <file name="/Dummy.txt" timestamp="1511947550274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" timestamp="1512625630531">
-        <mark key="'" line="65" column="11" />
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="70" column="11" />
-        <mark key="." line="70" column="11" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" timestamp="1512629790826">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1511856854805">
         <mark key="[" line="33" column="30" />
@@ -160,13 +160,14 @@
       <jump line="35" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
       <jump line="36" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" />
       <jump line="65" column="11" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>RecmeMatchSNSTopic</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>ServiceDomain</text>
