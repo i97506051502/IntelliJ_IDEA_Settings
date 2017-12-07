@@ -11,6 +11,13 @@
       <file name="/Dummy.txt" timestamp="1511947550274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" timestamp="1512625630531">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1511856854805">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="30" />
@@ -81,12 +88,21 @@
         <mark key="." line="73" column="7" />
         <mark key="^" line="73" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-securitygroup.yaml" timestamp="1512625140004">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="78" column="68" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1512456225649">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="68" />
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1512625519843">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
@@ -140,52 +156,56 @@
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
+      <jump line="35" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
+      <jump line="36" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" />
+      <jump line="65" column="11" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>django.core.mail.backends.console.EmailBackend'</text>
+        <text>RecmeMatchSNSTopic</text>
       </register>
       <register name="/" type="4">
-        <text>.log</text>
+        <text>ServiceDomain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn6L+95Yqg44GV44KM44GfIEF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnLScsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJy0nLCAhUmVmIFNlcnZpY2VOYW1lXV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICdkZXYtemV1c25hdmknCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICdkZXYtemV1c25hdmknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWyctJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnemV1c25hdmktc25zLXRvcGljJ11dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJy0nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICd6ZXVzbmF2aS1zbnMtdG9waWMnXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5X2ZpbGVzICR1cmkgQHMzOwo=</text>
+        <text encoding="base64">ICAgIEFsbG93ZWRWYWx1ZXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbiAvIHsK</text>
+        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbjogWW91IG11c3Qgc3BlY2lmeSAnZGV2ZWxvcG1lbnQnIG9yICdzdGFnaW5nJyBvciAncHJvZHVjdGlvbicuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBwcmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzdGcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfcGFzcyAgaHR0cDovLyRzM19ob3N0Owo=</text>
+        <text encoding="base64">ICAgICAgLSBkZXYK</text>
       </register>
     </registers>
     <search>
-      <last-search>.log</last-search>
+      <last-search>ServiceDomain</last-search>
       <last-offset />
-      <last-pattern>.log</last-pattern>
+      <last-pattern>ServiceDomain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -194,6 +214,7 @@
         <entry>aws_secret_access_key</entry>
         <entry>django_debug_setting</entry>
         <entry>.log</entry>
+        <entry>ServiceDomain</entry>
       </history-search>
       <history-cmd />
       <history-expr />
