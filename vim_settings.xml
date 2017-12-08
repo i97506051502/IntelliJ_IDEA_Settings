@@ -132,12 +132,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" timestamp="1512706235775">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" timestamp="1512715835300">
         <mark key="'" line="192" column="5" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
         <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+        <mark key="." line="25" column="13" />
       </file>
     </filemarks>
     <jumps>
