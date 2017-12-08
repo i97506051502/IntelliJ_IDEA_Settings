@@ -61,10 +61,10 @@
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512700614411">
         <mark key="'" line="122" column="21" />
-        <mark key="[" line="133" column="41" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="41" />
+        <mark key="[" line="124" column="41" />
+        <mark key="]" line="124" column="41" />
+        <mark key="." line="124" column="41" />
+        <mark key="^" line="124" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/templates/mock_api.custom.py" timestamp="1511849047123">
         <mark key="[" line="4" column="28" />
@@ -111,7 +111,6 @@
         <mark key="." line="161" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" timestamp="1512640702469">
-        <mark key="'" line="225" column="21" />
         <mark key="[" line="124" column="41" />
         <mark key="]" line="124" column="41" />
         <mark key="^" line="124" column="41" />
@@ -128,10 +127,17 @@
         <mark key="^" line="63" column="45" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1512625519843">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1512702423980">
         <mark key="'" line="36" column="16" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" timestamp="1512703241108">
+        <mark key="'" line="192" column="5" />
+        <mark key="[" line="193" column="36" />
+        <mark key="]" line="194" column="5" />
+        <mark key="^" line="194" column="5" />
+        <mark key="." line="194" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -174,6 +180,10 @@
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="33" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" />
+      <jump line="180" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
+      <jump line="224" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
+      <jump line="176" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
+      <jump line="192" column="5" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -186,34 +196,34 @@
         <text>zeus_mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBsbV9hZG1pbl9wYXNzd29yZDoK</text>
+        <text encoding="base64">ICAgICAgICAtICFJZgogICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAtICFJbXBvcnRWYWx1ZSBkZXYtemV1c25hdmktc25zLXRvcGljLVNOU1RvcGljWmV1c25hdmkKICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAgIC0gIUltcG9ydFZhbHVlIHN0Zy16ZXVzbmF2aS1zbnMtdG9waWMtU05TVG9waWNaZXVzbmF2aQogICAgICAgICAgICAtICFJZgogICAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgICAgLSAhSW1wb3J0VmFsdWUgcHJkLXpldXNuYXZpLXNucy10b3BpYy1TTlNUb3BpY1pldXNuYXZpCiAgICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn6L+95Yqg44GV44KM44GfIEF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgIFR5cGU6IFN0cmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB6ZXVzbmF2aV9tYWlsX2FwaV91cmw6ICcnCg==</text>
+        <text encoding="base64">ICAgIERlZmF1bHQ6IHpldXNuYXZpLmNvbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn5L2/55So44GX44Gq44GE44GT44Go44Go44Gq44Gj44Gf44CCCg==</text>
+        <text encoding="base64">ICAgIERlc2NyaXB0aW9uOiBUaGUgRG9tYWluIE5hbWUgKEZRRE4pIG9mIHNlcnZpY2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn6L+95Yqg44GV44KM44GfIEF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICBTZXJ2aWNlRG9tYWluTmFtZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBSRUNNRV9NQUlMX0FQSV9VUkwgPSAne3sgemV1c25hdmlfbWFpbF9hcGlfdXJsIH19Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICFJbXBvcnRWYWx1ZSBwcmQtcmVjbWUtbWF0Y2gtc25zLXRvcGljLVJlY21lTWF0Y2hTTlNUb3BpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn5L2/55So44GX44Gq44GE44GT44Go44Go44Gq44Gj44Gf44CCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIElzUHJvZHVjdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vTGVhZGluZ01hcmsvemV1c19hcGkvcHVsbC8xMi8g44Gn6L+95Yqg44GV44KM44GfIEF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSW1wb3J0VmFsdWUgc3RnLXJlY21lLW1hdGNoLXNucy10b3BpYy1SZWNtZU1hdGNoU05TVG9waWMK</text>
       </register>
     </registers>
     <search>
