@@ -81,6 +81,13 @@
       <file name="/Dummy.txt" timestamp="1512643110756">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-sns-topic.yaml" timestamp="1512632723580">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="70" column="12" />
@@ -140,10 +147,10 @@
         <mark key="]" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513046721152">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" timestamp="1513049218035">
         <mark key="'" line="93" column="0" />
@@ -208,46 +215,48 @@
       <jump line="93" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" />
       <jump line="66" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" />
+      <jump line="95" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>django-application-log</text>
+        <text>onfig</text>
       </register>
       <register name="/" type="4">
         <text>ServiceDomainNames</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTZXJ2aWNlTmFtZToKICAgIERlc2NyaXB0aW9uOiBUaGUgTmFtZSBvZiBTZXJ2aWNlLgogICAgRGVmYXVsdDogemV1c25hdmkKICAgIFR5cGU6IFN0cmluZwo=</text>
+        <text encoding="base64">LSB+Ly5hd3MvY29uZmlnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFR5cGU6IFN0cmluZwo=</text>
+        <text encoding="base64">YXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVNPVDNBTEVKTDNPN0w2QQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERlZmF1bHQ6IHpldXNuYXZpLmNvbQo=</text>
+        <text encoding="base64">YXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gZWxQT1NqS2djMHlrLytmUDVNYklwdTFkUzFlMjEwVnNBRW1mUkN1UQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlc2NyaXB0aW9uOiBUaGUgRG9tYWluIE5hbWUgKEZRRE4pIG9mIHNlcnZpY2UuCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTZXJ2aWNlRG9tYWluTmFtZToK</text>
+        <text encoding="base64">IyAyOTgwNDE1Mjc3NjQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtICFJbXBvcnRWYWx1ZSBwcmQtcmVjbWUtbWF0Y2gtc25zLXRvcGljLVJlY21lTWF0Y2hTTlNUb3BpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIElzUHJvZHVjdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSWYK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSW1wb3J0VmFsdWUgc3RnLXJlY21lLW1hdGNoLXNucy10b3BpYy1SZWNtZU1hdGNoU05TVG9waWMK</text>
+        <text encoding="base64">IyAyOTgwNDE1Mjc3NjQK</text>
       </register>
     </registers>
     <search>
