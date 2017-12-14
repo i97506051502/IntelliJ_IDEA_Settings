@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1513218090635">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513240042601">
-        <mark key="'" line="66" column="17" />
-        <mark key="[" line="79" column="68" />
-        <mark key="]" line="79" column="68" />
-        <mark key="^" line="77" column="64" />
-        <mark key="." line="79" column="68" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
+        <mark key="'" line="64" column="17" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="82" column="33" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1512702423980">
         <mark key="'" line="36" column="16" />
@@ -250,35 +250,35 @@
       <register name="/" type="4">
         <text>!Join</text>
       </register>
-      <register name="0" type="4">
-        <text>metric_filter_pattern</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAnJyB8ICcnIHwgJycgKQogICAgICAgICAgIE1FVFJJQ19GSUxURVJfUEFUVEVSTj0nJyAKICAgICAgICAgICA7Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">K0dDUF9DUkVERU5USUFMX0pTT05fS0VZX1BBVEggPSAne2djcF9jcmVkZW50aWFsX2pzb25fa2V5X3BhdGh9Jwo=</text>
+        <text encoding="base64">X19FT0xfXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBV1NfQkFUQ0hfRU1BSUxfRU5EUE9JTlQgPSAnaHR0cHM6Ly9xMXhxb241cWI2LmV4ZWN1dGUtYXBpLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbi9zZW5kbWFpbCcK</text>
+        <text encoding="base64">ICAgICAgICBNSVNTCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICtHQ1BfQ1JFREVOVElBTF9KU09OX0tFWV9QQVRIID0gJy9wYXRoL3RvL2NyZWRlbnRpYWxfanNvbl9rZXknCg==</text>
+        <text encoding="base64">ICAgICAgICBGQUlMCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgRGVzY3JpcHRpb246ICFKb2luIFsnJywgWydUaGUgSWQgb2YgdGhlICcsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcgRW5jcnlwdGlvbiBrZXkgYWxpYXMuJ11dCg==</text>
+        <text encoding="base64">ICAgICAgICBFUlJPUgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2FsaWFzLycsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLScsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
+        <text encoding="base64">ICAgICAgICBDUklUSUNBTAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnYWxpYXMvJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICctJywgIVJlZiBTZXJ2aWNlTmFtZSwgJ2ttcy1jbG91ZHdhdGNoLWxvZ3MtdG8tc2xhY2snXV0K</text>
+        <text encoding="base64">ICAgICAgICBkb25lIDw8IF9fRU9MX18K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJ18nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
+        <text encoding="base64">ICAgICAgICBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWydfJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAhUmVmIFNlcnZpY2VOYW1lLCAna21zLWNsb3Vkd2F0Y2gtbG9ncy10by1zbGFjayddXQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSByZWFkIE1FVFJJQ19GSUxURVJfUEFUVEVSTgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBLaW5kT2ZMb2dGaWxlPSIke2tpbmRfb2ZfbG9nX2ZpbGV9IiBcCg==</text>
+        <text encoding="base64">K0dDUF9DUkVERU5USUFMX0pTT05fS0VZX1BBVEggPSAne2djcF9jcmVkZW50aWFsX2pzb25fa2V5X3BhdGh9Jwo=</text>
       </register>
     </registers>
     <search>
