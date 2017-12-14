@@ -9,11 +9,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1512698869425">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1513218097406">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="89" column="62" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="88" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/bastion/bastion.yml" timestamp="1512640409295">
         <mark key="[" line="9" column="0" />
@@ -53,11 +54,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512698917665">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1513218101049">
+        <mark key="'" line="75" column="39" />
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="89" column="63" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="72" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512704179108">
         <mark key="'" line="122" column="21" />
@@ -96,18 +98,14 @@
         <mark key="." line="70" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/README.md" timestamp="1513148239432">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="66" column="2" />
-        <mark key="]" line="72" column="19" />
-        <mark key="^" line="68" column="33" />
-        <mark key="." line="72" column="0" />
+        <mark key="'" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1512698944283">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="84" column="1" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1513218129264">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="89" column="26" />
+        <mark key="]" line="84" column="30" />
+        <mark key="." line="84" column="30" />
+        <mark key="^" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/deploy_zeus_api.yaml" timestamp="1511853822723">
         <mark key="[" line="11" column="14" />
@@ -134,12 +132,12 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="78" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1512720706125">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" timestamp="1513218090635">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="63" column="45" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="62" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513049555000">
         <mark key="'" line="66" column="17" />
@@ -253,46 +251,48 @@
       <jump line="48" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" />
       <jump line="52" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" />
       <jump line="169" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" />
+      <jump line="20" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="75" column="39" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>onfig</text>
+        <text>http://localhost:{}'.format(DEFAULT_DEV_PORT)</text>
       </register>
       <register name="/" type="4">
         <text>!Join</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnJywgWydhbGlhcy8nLCAhUmVmIEVudmlyb25tZW50VHlwZSwgJy0nLCAhUmVmIFNlcnZpY2VOYW1lLCAnLScsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
+        <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aCkdDUF9DUkVERU5USUFMX0pTT05fS0VZX1BBVEggPSAne2djcF9jcmVkZW50aWFsX2pzb25fa2V5X3BhdGh9Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRGVzY3JpcHRpb246ICFKb2luIFsnJywgWydUaGUgSWQgb2YgdGhlICcsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcgRW5jcnlwdGlvbiBrZXkgYWxpYXMuJ11dCg==</text>
+        <text encoding="base64">K0dDUF9DUkVERU5USUFMX0pTT05fS0VZX1BBVEggPSAne2djcF9jcmVkZW50aWFsX2pzb25fa2V5X3BhdGh9Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2FsaWFzLycsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLScsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
+        <text encoding="base64">IyBBV1NfQkFUQ0hfRU1BSUxfRU5EUE9JTlQgPSAnaHR0cHM6Ly9xMXhxb241cWI2LmV4ZWN1dGUtYXBpLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbi9zZW5kbWFpbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnYWxpYXMvJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICctJywgIVJlZiBTZXJ2aWNlTmFtZSwgJ2ttcy1jbG91ZHdhdGNoLWxvZ3MtdG8tc2xhY2snXV0K</text>
+        <text encoding="base64">ICtHQ1BfQ1JFREVOVElBTF9KU09OX0tFWV9QQVRIID0gJy9wYXRoL3RvL2NyZWRlbnRpYWxfanNvbl9rZXknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJ18nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
+        <text encoding="base64">ICAgICMgRGVzY3JpcHRpb246ICFKb2luIFsnJywgWydUaGUgSWQgb2YgdGhlICcsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcgRW5jcnlwdGlvbiBrZXkgYWxpYXMuJ11dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWydfJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAhUmVmIFNlcnZpY2VOYW1lLCAna21zLWNsb3Vkd2F0Y2gtbG9ncy10by1zbGFjayddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2FsaWFzLycsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLScsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBLaW5kT2ZMb2dGaWxlPSIke2tpbmRfb2ZfbG9nX2ZpbGV9IiBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnYWxpYXMvJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICctJywgIVJlZiBTZXJ2aWNlTmFtZSwgJ2ttcy1jbG91ZHdhdGNoLWxvZ3MtdG8tc2xhY2snXV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJZDogImtleS1jb25zb2xlcG9saWN5LXpldXNuYXZpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJ18nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICFSZWYgU2VydmljZU5hbWUsICdrbXMtY2xvdWR3YXRjaC1sb2dzLXRvLXNsYWNrJ11dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJZDogImtleS1jb25zb2xlcG9saWN5LXpldXNuYXZpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWydfJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAhUmVmIFNlcnZpY2VOYW1lLCAna21zLWNsb3Vkd2F0Y2gtbG9ncy10by1zbGFjayddXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBLaW5kT2ZMb2dGaWxlPSIke2tpbmRfb2ZfbG9nX2ZpbGV9IiBcCg==</text>
       </register>
     </registers>
     <search>
