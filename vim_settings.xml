@@ -9,6 +9,13 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1513581687452">
+        <mark key="'" line="61" column="6" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1513218097406">
         <mark key="'" line="24" column="0" />
         <mark key="]" line="68" column="62" />
@@ -239,13 +246,17 @@
       <jump line="169" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" />
       <jump line="20" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="75" column="39" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="28" column="3" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
+      <jump line="61" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:{}'.format(DEFAULT_DEV_PORT)</text>
+        <text>dev-zeusnavi-cloudwatch-alarm-messages \</text>
       </register>
       <register name="/" type="4">
         <text>!Join</text>
@@ -254,31 +265,31 @@
         <text encoding="base64">ICAgICAgICAgICAnJyB8ICcnIHwgJycgKQogICAgICAgICAgIE1FVFJJQ19GSUxURVJfUEFUVEVSTj0nJyAKICAgICAgICAgICA7Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X19FT0xfXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNSVNTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGQUlMCg==</text>
+        <text encoding="base64">LSBSRFMg44K144OW44ON44OD44OI55SoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFUlJPUgo=</text>
+        <text encoding="base64">LSBBcHAg44K144OW44ON44OD44OI55SoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDUklUSUNBTAo=</text>
+        <text encoding="base64">LSBMQiDjgrXjg5bjg43jg4Pjg4jnlKgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lIDw8IF9fRU9MX18K</text>
+        <text encoding="base64">LSBCYXN0aW9uIOOCteODluODjeODg+ODiOeUqAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSByZWFkIE1FVFJJQ19GSUxURVJfUEFUVEVSTgo=</text>
+        <text encoding="base64">emV1c25hdmkuY29tIOeUqOOBruWQhOeoruOCu+OCreODpeODquODhuOCo+OCsOODq+ODvOODl+OCkuS9nOaIkAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">K0dDUF9DUkVERU5USUFMX0pTT05fS0VZX1BBVEggPSAne2djcF9jcmVkZW50aWFsX2pzb25fa2V5X3BhdGh9Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
