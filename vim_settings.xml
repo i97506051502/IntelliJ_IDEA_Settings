@@ -147,12 +147,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1513754536596">
-        <mark key="'" line="63" column="52" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="73" />
-        <mark key="^" line="45" column="6" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1513757452944">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
@@ -179,7 +179,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1513751936224">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1513757362482">
         <mark key="'" line="79" column="2" />
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -279,46 +279,49 @@
       <jump line="62" column="5" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="63" column="52" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
+      <jump line="137" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
+      <jump line="193" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
+      <jump line="157" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICR7RW52aXJvbm1lbnRUeXBlfS1jbG91ZHRyYWlsLWFsbC1yZWdpb24tJHtDb21wYW55TmFtZX0=</text>
       </register>
       <register name="/" type="4">
         <text>Topic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVG9waWNOYW1lOiAke0Vudmlyb25tZW50VHlwZX0tY2xvdWR0cmFpbC1hbGwtcmVnaW9uLSR7Q29tcGFueU5hbWV9Cg==</text>
+        <text encoding="base64">ICAgICAgI0J1Y2tldE5hbWU6ICR7RW52aXJvbm1lbnRUeXBlfS1jbG91ZHRyYWlsLWFsbC1yZWdpb24tJHtDb21wYW55TmFtZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgI1RvcGljTmFtZTogJHtFbnZpcm9ubWVudFR5cGV9LWNsb3VkdHJhaWwtYWxsLXJlZ2lvbi0ke0NvbXBhbnlOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgIyBUcmFpbE5hbWU6ICR7RW52aXJvbm1lbnRUeXBlfS1jbG91ZHRyYWlsLWFsbC1yZWdpb24tJHtDb21wYW55TmFtZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgIERpc3BsYXlOYW1lOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVG9waWNOYW1lOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIC0gJ3ByZC1tYXRjaCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQnVja2V0TmFtZTogY2xvdWQtdHJhaWwtYWxsLXJlZ2lvbi0K</text>
+        <text encoding="base64">IyAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERlc2NyaXB0aW9uOiBUaGUgRG9tYWluIE5hbWUgb2YgU2VydmljZS4K</text>
+        <text encoding="base64">IyAgICAgICAgICAtICFJZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTZXJ2aWNlRG9tYWluTmFtZToK</text>
+        <text encoding="base64">IyAgICAgICAgICAtICdzdGctbWF0Y2gnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICAtIElzU3RhZ2luZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbnN0cmFpbnREZXNjcmlwdGlvbjogWW91IG11c3Qgc3BlY2lmeSAnZGV2ZWxvcG1lbnQnIG9yICdzdGFnaW5nJyBvciAncHJvZHVjdGlvbicuCg==</text>
+        <text encoding="base64">IyAgICAgICAgLSAhSWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBwcmQK</text>
+        <text encoding="base64">IyAgICAgICAgLSAnZGV2LW1hdGNoJwo=</text>
       </register>
     </registers>
     <search>
