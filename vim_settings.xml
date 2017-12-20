@@ -12,7 +12,7 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1513581959808">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1513750060999">
         <mark key="'" line="90" column="6" />
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -143,12 +143,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1513748818284">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="77" column="27" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1513750248427">
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="52" />
         <mark key="^" line="76" column="18" />
-        <mark key="." line="77" column="14" />
+        <mark key="." line="39" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
@@ -174,6 +174,13 @@
         <mark key="'" line="34" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1513751001996">
+        <mark key="'" line="79" column="2" />
+        <mark key="[" line="109" column="20" />
+        <mark key="]" line="109" column="20" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="109" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -255,13 +262,16 @@
       <jump line="20" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="75" column="39" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="68" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
+      <jump line="110" column="5" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="51" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="19" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Create EC2 Instance(App 001 1a) for zeusnavi.com.</text>
+        <text>スイッチロール先の IAM ロールの整備</text>
       </register>
       <register name="/" type="4">
         <text>!Join</text>
@@ -270,31 +280,31 @@
         <text>ForCloudTrail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRvcGljUG9saWN5Rm9yQ2xvdWRUcmFpbAo=</text>
+        <text encoding="base64">ICAgIC0tdGVtcGxhdGUtZmlsZSAuLi9jbG91ZGZvcm1hdGlvbi9haW1lZXRzLXNhbXBsZS55YW1sIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAiMjAxMC0wOS0wOSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkRlc2lnbmVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkludGVyZmFjZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkluaXQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0tCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIyDjg4bjg7Pjg5fjg6zjg7zjg4jjga7jg5Djg6rjg4fjg7zjgrfjg6fjg7MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSBzdGFnaW5nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIOOCueODhuODvOOCuOODs+OCsOeSsOWig+OBq+ODh+ODl+ODreOCpOOBmeOCi+OBn+OCgeOBruODluODqeODs+ODgeWQjQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">X19FT0xfXwo=</text>
+        <text encoding="base64">ICAgICAgICAtIFRvcGljUG9saWN5Rm9yQ2xvdWRUcmFpbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNSVNTCg==</text>
+        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAiMjAxMC0wOS0wOSIK</text>
       </register>
     </registers>
     <search>
