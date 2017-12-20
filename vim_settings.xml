@@ -143,6 +143,13 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1513748818284">
+        <mark key="'" line="76" column="20" />
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="76" column="18" />
+        <mark key="." line="77" column="14" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="0" />
@@ -163,8 +170,10 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-ec2-app-001.yaml" timestamp="1513145973591">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-ec2-app-001.yaml" timestamp="1513748517254">
         <mark key="'" line="34" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -245,46 +254,47 @@
       <jump line="169" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" />
       <jump line="20" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="75" column="39" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
+      <jump line="68" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:{}'.format(DEFAULT_DEV_PORT)</text>
+        <text>Create EC2 Instance(App 001 1a) for zeusnavi.com.</text>
       </register>
       <register name="/" type="4">
         <text>!Join</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnJyB8ICcnIHwgJycgKQogICAgICAgICAgIE1FVFJJQ19GSUxURVJfUEFUVEVSTj0nJyAKICAgICAgICAgICA7Owo=</text>
+      <register name="0" type="4">
+        <text>ForCloudTrail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIFRvcGljUG9saWN5Rm9yQ2xvdWRUcmFpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X19FT0xfXwo=</text>
+        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAiMjAxMC0wOS0wOSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNSVNTCg==</text>
+        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkRlc2lnbmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGQUlMCg==</text>
+        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkludGVyZmFjZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFUlJPUgo=</text>
+        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkluaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDUklUSUNBTAo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lIDw8IF9fRU9MX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkbwo=</text>
+        <text encoding="base64">X19FT0xfXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSByZWFkIE1FVFJJQ19GSUxURVJfUEFUVEVSTgo=</text>
+        <text encoding="base64">ICAgICAgICBNSVNTCg==</text>
       </register>
     </registers>
     <search>
