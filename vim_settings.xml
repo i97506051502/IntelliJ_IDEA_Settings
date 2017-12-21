@@ -19,6 +19,12 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/add_linux_users.yaml" timestamp="1513837043236">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1513218097406">
         <mark key="'" line="24" column="0" />
         <mark key="]" line="68" column="62" />
@@ -56,6 +62,18 @@
         <mark key="^" line="138" column="54" />
         <mark key="." line="138" column="42" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/users.yml" timestamp="1513837387605">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" timestamp="1513836748879">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" timestamp="1511857382839">
         <mark key="[" line="73" column="56" />
         <mark key="]" line="73" column="7" />
@@ -65,6 +83,12 @@
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_match_infra/cloudformation/recme-match-sns-topic.yaml" timestamp="1513752299897">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/groups.yml" timestamp="1513836847398">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
@@ -120,6 +144,9 @@
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/deploy_zeus_api.yaml" timestamp="1511853822723">
         <mark key="[" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/groups.yml" timestamp="1513837351673">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1511861795035">
         <mark key="[" line="55" column="0" />
@@ -192,6 +219,18 @@
         <mark key="]" line="124" column="0" />
         <mark key="^" line="122" column="32" />
         <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/users.yml" timestamp="1513836823026">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yml" timestamp="1513837808886">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="11" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -291,46 +330,47 @@
       <jump line="157" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="182" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="90" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
+      <jump line="24" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR7RW52aXJvbm1lbnRUeXBlfS1jbG91ZHRyYWlsLWFsbC1yZWdpb24tJHtDb21wYW55TmFtZX0=</text>
+        <text encoding="base64">IGFkZCBncm91cCBsbWFyaw==</text>
       </register>
       <register name="/" type="4">
         <text>Topic</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEVOVj4u</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBpbmNsdWRlOiByb2xlcy9hZGRfbGludXhfdXNlcnMvdGFza3MvdXNlcnMueWFtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgojIC0gbmFtZTogRGVsZXRlIGRlZmF1bHQgdXNlcnMKIyAgIGJlY29tZTogeWVzCiMgICB1c2VyOgojICAgICBuYW1lOiAie3sgaXRlbSB9fSIKIyAgICAgc3RhdGU6IGFic2VudAojICAgICByZW1vdmU6IHllcwojICAgd2l0aF9pdGVtczoKIyAgICAgLSB1YnVudHUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGtleTogInt7IGxvb2t1cCgnZmlsZScsICdzc2hfcHVibGljX2tleXMvbXVyYWthbWkuc2FvcmkvbWFpbi5wdWInKSB9fSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkRlc2lnbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHN0YXRlOiBwcmVzZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkludGVyZmFjZQo=</text>
+        <text encoding="base64">ICAgICAgYXV0aG9yaXplZF9rZXlzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkluaXQK</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IGxlYWRpbmdtYXJrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBUcmFpbE5hbWU6ICR7RW52aXJvbm1lbnRUeXBlfS1jbG91ZHRyYWlsLWFsbC1yZWdpb24tJHtDb21wYW55TmFtZX0K</text>
+        <text encoding="base64">ICAgICAgICBzdGFnaW5nOiBwcmVzZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0aW9uOiBwcmVzZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIC0gJ3ByZC1tYXRjaCcK</text>
+        <text encoding="base64">ICAgICAgc3RhdGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgc2hlbGw6IC9iaW4vYmFzaAo=</text>
       </register>
     </registers>
     <search>
@@ -364,6 +404,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
