@@ -201,6 +201,12 @@
         <mark key="^" line="164" column="9" />
         <mark key="." line="176" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yaml" timestamp="1513839418194">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="28" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" timestamp="1513752413115">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="70" column="0" />
@@ -331,6 +337,7 @@
       <jump line="182" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="90" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" />
       <jump line="24" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" />
+      <jump line="100" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -343,7 +350,7 @@
         <text>Topic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBpbmNsdWRlOiByb2xlcy9hZGRfbGludXhfdXNlcnMvdGFza3MvdXNlcnMueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZlbG9wbWVudDogcHJlc2VudAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgojIC0gbmFtZTogRGVsZXRlIGRlZmF1bHQgdXNlcnMKIyAgIGJlY29tZTogeWVzCiMgICB1c2VyOgojICAgICBuYW1lOiAie3sgaXRlbSB9fSIKIyAgICAgc3RhdGU6IGFic2VudAojICAgICByZW1vdmU6IHllcwojICAgd2l0aF9pdGVtczoKIyAgICAgLSB1YnVudHUK</text>
