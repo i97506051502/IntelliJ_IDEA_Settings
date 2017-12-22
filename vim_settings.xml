@@ -34,10 +34,6 @@
         <mark key="." line="73" column="7" />
         <mark key="^" line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_match_infra/cloudformation/recme-match-sns-topic.yaml" timestamp="1513752299897">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512704179108">
         <mark key="'" line="122" column="21" />
         <mark key="[" line="133" column="57" />
@@ -88,12 +84,12 @@
       <file name="vim_settings.xml" timestamp="1513581738599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1513852498863">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1513927394359">
         <mark key="'" line="163" column="0" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="22" />
-        <mark key="^" line="69" column="37" />
-        <mark key="." line="69" column="22" />
+        <mark key="[" line="144" column="20" />
+        <mark key="]" line="144" column="21" />
+        <mark key="^" line="144" column="21" />
+        <mark key="." line="144" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/bastion/bastion.yml" timestamp="1512640409295">
         <mark key="[" line="9" column="0" />
@@ -113,6 +109,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-s3-bucket-for-cloudformation-template.yaml" timestamp="1513927998852">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1511857464077">
         <mark key="[" line="138" column="42" />
@@ -204,12 +206,12 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1513852540140">
-        <mark key="'" line="172" column="22" />
-        <mark key="[" line="94" column="29" />
-        <mark key="]" line="94" column="29" />
-        <mark key="^" line="94" column="29" />
-        <mark key="." line="94" column="29" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1513927503395">
+        <mark key="'" line="101" column="3" />
+        <mark key="[" line="109" column="22" />
+        <mark key="]" line="109" column="36" />
+        <mark key="^" line="109" column="36" />
+        <mark key="." line="109" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yml" timestamp="1513837808886">
         <mark key="[" line="11" column="11" />
@@ -219,15 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" />
-      <jump line="20" column="3" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="13" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="8" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="23" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="32" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="35" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="37" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
-      <jump line="38" column="28" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/biz_api.custom.py" />
@@ -319,52 +312,61 @@
       <jump line="186" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="239" column="54" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="172" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="245" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="198" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="19" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="23" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="98" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="101" column="3" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="258" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-s3-bucket-for-cloudformation-template.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>SPA Application.</text>
+        <text>aimeets.jp, SPA container and image files container and cloudformation template files container.</text>
       </register>
       <register name="/" type="4">
-        <text>Topic</text>
+        <text>デプロイ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTM0J1Y2tldEltYWdlc0FJbWVldHNKcDoKICAgIFR5cGU6IEFXUzo6UzM6OkJ1Y2tldAogICAgUHJvcGVydGllczoKICAgICAgQnVja2V0TmFtZToKICAgICAgICAhSWYKICAgICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgICAjIC0gaW1hZ2VzLmRldi5haW1lZXRzLmpwCiAgICAgICAgLSAhSm9pbiBbJycsIFsnaW1hZ2VzLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQogICAgICAgIC0gIUlmCiAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgIyAtIGltYWdlcy5zdGcuYWltZWV0cy5qcAogICAgICAgICAgLSAhSm9pbiBbJycsIFsnaW1hZ2VzLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQogICAgICAgICAgLSAhSWYKICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgIyAtIGltYWdlcy5haW1lZXRzLmpwCiAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2ltYWdlcy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgIEFjY2Vzc0NvbnRyb2w6IFB1YmxpY1JlYWQKICAgICAgVmVyc2lvbmluZ0NvbmZpZ3VyYXRpb246CiAgICAgICAgU3RhdHVzOiBFbmFibGVkCg==</text>
+        <text encoding="base64">RGVzY3JpcHRpb246IENyZWF0ZSBTMyBCdWNrZXQocykgZm9yIHJlY21lX2Nsb3VkZm9ybWF0aW9uIHRlbXBsYXRlIGZpbGVzLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBhaW1lZXRzLWluZnJhL2Nsb3VkZm9ybWF0aW9uL3ByZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBhaW1lZXRzLWluZnJhL2Nsb3VkZm9ybWF0aW9uL3N0Zwo=</text>
+        <text encoding="base64">CiAgUzNQb2xpY3lXd3dBSW1lZXRzSnBTaW5nbGVQYWdlQXBwbGljYXRpb246CiAgICBUeXBlOiBBV1M6OlMzOjpCdWNrZXRQb2xpY3kKICAgIFByb3BlcnRpZXM6CiAgICAgIEJ1Y2tldDoKICAgICAgICBSZWY6IFMzQnVja2V0V3d3QUltZWV0c0pwU2luZ2xlUGFnZUFwcGxpY2F0aW9uCiAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDA4LTEwLTE3JwogICAgICAgIElkOiBTM0J1Y2tldFd3d0FJbWVldHNKcFBvbGljeTEKICAgICAgICBTdGF0ZW1lbnQ6CiAgICAgICAgLSBTaWQ6IFN0bXQxMzg3OTUxNzM3NzcKICAgICAgICAgIEVmZmVjdDogQWxsb3cKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgQVdTOiAiKiIKICAgICAgICAgIEFjdGlvbjogczM6R2V0T2JqZWN0CiAgICAgICAgICBSZXNvdXJjZToKICAgICAgICAgICAgIUlmCiAgICAgICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6d3d3LmRldi5haW1lZXRzLmpwLyoiCiAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6d3d3LnN0Zy5haW1lZXRzLmpwLyoiCiAgICAgICAgICAgICAgLSAhSWYKICAgICAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6d3d3LmFpbWVldHMuanAvKiIKICAgICAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgoKICBTM0J1Y2tldEVtcEFJbWVldHNKcFNpbmdsZVBhZ2VBcHBsaWNhdGlvbjoKICAgIFR5cGU6IEFXUzo6UzM6OkJ1Y2tldAogICAgUHJvcGVydGllczoKICAgICAgQnVja2V0TmFtZToKICAgICAgICAhSWYKICAgICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgICAjIC0gZW1wLmRldi5haW1lZXRzLmpwCiAgICAgICAgLSAhSm9pbiBbJycsIFsnZW1wJywgJy4nLCAhUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAtICFJZgogICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgICMgLSBlbXAuc3RnLmFpbWVldHMuanAKICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2VtcCcsICcuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAjIC0gZW1wLmFpbWVldHMuanAKICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnZW1wJywgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgIFdlYnNpdGVDb25maWd1cmF0aW9uOgogICAgICAgIEluZGV4RG9jdW1lbnQ6IGluZGV4Lmh0bWwKICAgICAgICBFcnJvckRvY3VtZW50OiBpbmRleC5odG1sCiAgICAgIEFjY2Vzc0NvbnRyb2w6IFB1YmxpY1JlYWQKICAgICAgVmVyc2lvbmluZ0NvbmZpZ3VyYXRpb246CiAgICAgICAgU3RhdHVzOiBFbmFibGVkCgogIFMzUG9saWN5RW1wQUltZWV0c0pwU2luZ2xlUGFnZUFwcGxpY2F0aW9uOgogICAgVHlwZTogQVdTOjpTMzo6QnVja2V0UG9saWN5CiAgICBQcm9wZXJ0aWVzOgogICAgICBCdWNrZXQ6CiAgICAgICAgUmVmOiBTM0J1Y2tldEVtcEFJbWVldHNKcFNpbmdsZVBhZ2VBcHBsaWNhdGlvbgogICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICBWZXJzaW9uOiAnMjAwOC0xMC0xNycKICAgICAgICBJZDogUzNCdWNrZXRFbXBBSW1lZXRzSnBQb2xpY3kxCiAgICAgICAgU3RhdGVtZW50OgogICAgICAgIC0gU2lkOiBTdG10MTM4Nzc3NzczNjA5CiAgICAgICAgICBFZmZlY3Q6IEFsbG93CiAgICAgICAgICBQcmluY2lwYWw6CiAgICAgICAgICAgIEFXUzogIioiCiAgICAgICAgICBBY3Rpb246IHMzOkdldE9iamVjdAogICAgICAgICAgUmVzb3VyY2U6CiAgICAgICAgICAgICFJZgogICAgICAgICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgICAgICAgLSAiYXJuOmF3czpzMzo6OmVtcC5kZXYuYWltZWV0cy5qcC8qIgogICAgICAgICAgICAtICFJZgogICAgICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAgICAgLSAiYXJuOmF3czpzMzo6OmVtcC5zdGcuYWltZWV0cy5qcC8qIgogICAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAgICAgLSAiYXJuOmF3czpzMzo6OmVtcC5haW1lZXRzLmpwLyoiCiAgICAgICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIKCiAgUzNCdWNrZXRCaXpBSW1lZXRzSnBTaW5nbGVQYWdlQXBwbGljYXRpb246CiAgICBUeXBlOiBBV1M6OlMzOjpCdWNrZXQKICAgIFByb3BlcnRpZXM6CiAgICAgIEJ1Y2tldE5hbWU6CiAgICAgICAgIUlmCiAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgIyAtIGJpei5kZXYuYWltZWV0cy5qcAogICAgICAgIC0gIUpvaW4gWycnLCBbJ2JpeicsICcuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgLSAhSWYKICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAjIC0gYml6LnN0Zy5haW1lZXRzLmpwCiAgICAgICAgICAtICFKb2luIFsnJywgWydiaXonLCAnLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQogICAgICAgICAgLSAhSWYKICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgIyAtIGJpei5haW1lZXRzLmpwCiAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2JpeicsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgogICAgICBXZWJzaXRlQ29uZmlndXJhdGlvbjoKICAgICAgICBJbmRleERvY3VtZW50OiBpbmRleC5odG1sCiAgICAgICAgRXJyb3JEb2N1bWVudDogaW5kZXguaHRtbAogICAgICBBY2Nlc3NDb250cm9sOiBQdWJsaWNSZWFkCiAgICAgIFZlcnNpb25pbmdDb25maWd1cmF0aW9uOgogICAgICAgIFN0YXR1czogRW5hYmxlZAoKICBTM1BvbGljeUJpekFJbWVldHNKcFNpbmdsZVBhZ2VBcHBsaWNhdGlvbjoKICAgIFR5cGU6IEFXUzo6UzM6OkJ1Y2tldFBvbGljeQogICAgUHJvcGVydGllczoKICAgICAgQnVja2V0OgogICAgICAgIFJlZjogUzNCdWNrZXRCaXpBSW1lZXRzSnBTaW5nbGVQYWdlQXBwbGljYXRpb24KICAgICAgUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgVmVyc2lvbjogJzIwMDgtMTAtMTcnCiAgICAgICAgSWQ6IFMzQnVja2V0Qml6QUltZWV0c0pwUG9saWN5MQogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIFNpZDogU3RtdDEzODc5Nzc3MzYwOQogICAgICAgICAgRWZmZWN0OiBBbGxvdwogICAgICAgICAgUHJpbmNpcGFsOgogICAgICAgICAgICBBV1M6ICIqIgogICAgICAgICAgQWN0aW9uOiBzMzpHZXRPYmplY3QKICAgICAgICAgIFJlc291cmNlOgogICAgICAgICAgICAhSWYKICAgICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAgIC0gImFybjphd3M6czM6OjpiaXouZGV2LmFpbWVldHMuanAvKiIKICAgICAgICAgICAgLSAhSWYKICAgICAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgICAgIC0gImFybjphd3M6czM6OjpiaXouc3RnLmFpbWVldHMuanAvKiIKICAgICAgICAgICAgICAtICFJZgogICAgICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgICAgIC0gImFybjphd3M6czM6OjpiaXouYWltZWV0cy5qcC8qIgogICAgICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgUzMgQnVja2V0IGZvciBhaW1lZXRzLmpwIHRvIHVwbG9hZCBpbWFnZSBmaWxlcy4KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogIFMzQnVja2V0SW1hZ2VzQUltZWV0c0pwOgogICAgVHlwZTogQVdTOjpTMzo6QnVja2V0CiAgICBQcm9wZXJ0aWVzOgogICAgICBCdWNrZXROYW1lOgogICAgICAgICFJZgogICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICMgLSBpbWFnZXMuZGV2LmFpbWVldHMuanAKICAgICAgICAtICFKb2luIFsnJywgWydpbWFnZXMuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgLSAhSWYKICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAjIC0gaW1hZ2VzLnN0Zy5haW1lZXRzLmpwCiAgICAgICAgICAtICFKb2luIFsnJywgWydpbWFnZXMuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAjIC0gaW1hZ2VzLmFpbWVldHMuanAKICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnaW1hZ2VzLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQogICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIKICAgICAgQWNjZXNzQ29udHJvbDogUHVibGljUmVhZAogICAgICBWZXJzaW9uaW5nQ29uZmlndXJhdGlvbjoKICAgICAgICBTdGF0dXM6IEVuYWJsZWQKCiAgUzNQb2xpY3lJbWFnZXNBSW1lZXRzSnA6CiAgICBUeXBlOiBBV1M6OlMzOjpCdWNrZXRQb2xpY3kKICAgIFByb3BlcnRpZXM6CiAgICAgIEJ1Y2tldDoKICAgICAgICBSZWY6IFMzQnVja2V0SW1hZ2VzQUltZWV0c0pwCiAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDA4LTEwLTE3JwogICAgICAgIElkOiBTM0J1Y2tldEltYWdlc0FJbWVldHNKcFBvbGljeTEKICAgICAgICBTdGF0ZW1lbnQ6CiAgICAgICAgLSBTaWQ6IFN0bXQxMzc3NzUxNzM2MDIKICAgICAgICAgIEVmZmVjdDogQWxsb3cKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgQVdTOiAiKiIKICAgICAgICAgIEFjdGlvbjogczM6R2V0T2JqZWN0CiAgICAgICAgICBSZXNvdXJjZToKICAgICAgICAgICAgIUlmCiAgICAgICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6aW1hZ2VzLmRldi5haW1lZXRzLmpwLyoiCiAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6aW1hZ2VzLnN0Zy5haW1lZXRzLmpwLyoiCiAgICAgICAgICAgICAgLSAhSWYKICAgICAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgICAgICAtICJhcm46YXdzOnMzOjo6aW1hZ2VzLmFpbWVldHMuanAvKiIKICAgICAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgQ3JlYXRlIFMzIEJ1Y2tldCBmb3IgYWltZWV0cy5qcCBJbmZyYXN0cnVjdHVyZSBmaWxlcy4KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogIFMzQnVja2V0QUltZWV0c0pwSW5mcmE6CiAgICBUeXBlOiBBV1M6OlMzOjpCdWNrZXQKICAgIFByb3BlcnRpZXM6CiAgICAgIEJ1Y2tldE5hbWU6CiAgICAgICAgIUlmCiAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgIyAtIGltYWdlcy5kZXYuYWltZWV0cy5qcAogICAgICAgIC0gIUpvaW4gWycnLCBbJ2ltYWdlcy4nLCAhUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAtICFJZgogICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgICMgLSBpbWFnZXMuc3RnLmFpbWVldHMuanAKICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2ltYWdlcy4nLCAhUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgICMgLSBpbWFnZXMuYWltZWV0cy5qcAogICAgICAgICAgICAtICFKb2luIFsnJywgWydpbWFnZXMuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgogICAgICBBY2Nlc3NDb250cm9sOiBQdWJsaWNSZWFkCiAgICAgIFZlcnNpb25pbmdDb25maWd1cmF0aW9uOgogICAgICAgIFN0YXR1czogRW5hYmxlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIEFJbWVldHMg44Kk44Oz44OV44Op55SoCg==</text>
+        <text encoding="base64">ICAgICAgICBFcnJvckRvY3VtZW50OiBpbmRleC5odG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICBJbmRleERvY3VtZW50OiBpbmRleC5odG1sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtIGJpei5haW1lZXRzLmpwCg==</text>
+        <text encoding="base64">ICAgICAgV2Vic2l0ZUNvbmZpZ3VyYXRpb246Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgLSBiaXouc3RnLmFpbWVldHMuanAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0gYml6LmRldi5haW1lZXRzLmpwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhUmVmIFNlcnZpY2VEb21haW5OYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtIHpldXNuYXZpLmNvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnd3d3JywgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgLSBzdGcuemV1c25hdmkuY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAtIHd3dy5haW1lZXRzLmpwCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Topic</last-search>
+      <last-search>デプロイ</last-search>
       <last-offset />
-      <last-pattern>Topic</last-pattern>
+      <last-pattern>デプロイ</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -378,6 +380,7 @@
         <entry>ServiceDomainNames</entry>
         <entry>!Join</entry>
         <entry>Topic</entry>
+        <entry>デプロイ</entry>
       </history-search>
       <history-cmd />
       <history-expr />
