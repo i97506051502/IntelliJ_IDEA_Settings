@@ -48,6 +48,12 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1514276023971">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/groups.yml" timestamp="1513837351673">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,6 +97,12 @@
         <mark key="^" line="144" column="21" />
         <mark key="." line="144" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/logrotate.d_emp_api" timestamp="1514276115376">
+        <mark key="[" line="9" column="87" />
+        <mark key="]" line="9" column="89" />
+        <mark key="." line="9" column="89" />
+        <mark key="^" line="9" column="89" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/bastion/bastion.yml" timestamp="1512640409295">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="42" />
@@ -117,11 +129,11 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1511857464077">
-        <mark key="[" line="138" column="42" />
-        <mark key="]" line="138" column="42" />
-        <mark key="^" line="138" column="54" />
-        <mark key="." line="138" column="42" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1514276201677">
+        <mark key="[" line="133" column="45" />
+        <mark key="]" line="133" column="47" />
+        <mark key="^" line="133" column="47" />
+        <mark key="." line="133" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/users.yml" timestamp="1513837387605">
         <mark key="[" line="0" column="0" />
@@ -222,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" />
       <jump line="153" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
       <jump line="232" column="33" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
       <jump line="122" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
@@ -322,6 +333,7 @@
       <jump line="124" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="254" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="264" column="51" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -334,34 +346,34 @@
         <text>デプロイ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBsZWFkaW5nbWFyawo=</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2hlbGwgc2NyaXB0IHRvIHJ1biBndW5pY29ybiAoYml6X2FwaSkKICB0ZW1wbGF0ZToKICAgIHNyYzogcnVuX2d1bmljb3JuX2Jpel9hcGkuc2gKICAgIGRlc3Q6IC9zcnYvLnZlbnYvYmluL3J1bl9ndW5pY29ybl9iaXpfYXBpLnNoCiAgICBvd25lcjogemV1c25hdmkKICAgIGdyb3VwOiBsZWFkaW5nbWFyawogICAgbW9kZTogMDc1NQogIG5vdGlmeToKICAtIHJlc3RhcnQgc3VwZXJ2aXNvcmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlRG9tYWluTmFtZT1haW1lZXRzLmpwIFwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBndW5pY29ybiDjg63jgrDjg63jg7zjg4bjg7zjg4jnlKggdmFycyAoZW1wX2FwaSkKZ3VuaWNvcm5fZW1wX2FwaV9sb2dfZmlsZV9wYXRoOiAnL3Zhci9sb2cvZ3VuaWNvcm4vZ3VuaWNvcm4temV1c25hdmktZW1wX2FwaS0qLmxvZycKZ3VuaWNvcm5fZW1wX2FwaV91c2VyOiAnemV1c25hdmknCmd1bmljb3JuX2VtcF9hcGlfZ3JvdXA6ICdsZWFkaW5nbWFyaycKZ3VuaWNvcm5fZW1wX2FwaV9waWRfZmlsZV9wYXRoOiAnL3Zhci9ydW4vZ3VuaWNvcm4uZW1wX2FwaS5waWQnCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIGFpbWVldHMtc2FtcGxlLnlhbWwK</text>
+        <text encoding="base64">IyBlbXBfYXBpIOOBr+WwhuadpeWun+ijheS6iOWumgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBJc01hc3RlcjogIUVxdWFscyBbIVJlZiBFbnZpcm9ubWVudFR5cGUsIG1hc3Rlcl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlRG9tYWluTmFtZT1haW1lZXRzLmpwIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnd3d3JywgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
+        <text encoding="base64">IyMjIGFpbWVldHMtc2FtcGxlLnlhbWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ3d3dycsICcuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCg==</text>
+        <text encoding="base64">ICBJc01hc3RlcjogIUVxdWFscyBbIVJlZiBFbnZpcm9ubWVudFR5cGUsIG1hc3Rlcl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtICFKb2luIFsnJywgWyd3d3cnLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnd3d3JywgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
       </register>
     </registers>
     <search>
