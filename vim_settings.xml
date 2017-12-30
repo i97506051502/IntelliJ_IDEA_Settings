@@ -3,92 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1511856854805">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/add_linux_users.yaml" timestamp="1513837043236">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1512698932763">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="64" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" timestamp="1513836748879">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" timestamp="1511857382839">
-        <mark key="[" line="73" column="56" />
-        <mark key="]" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-        <mark key="^" line="73" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512704179108">
-        <mark key="'" line="122" column="21" />
-        <mark key="[" line="133" column="57" />
-        <mark key="]" line="133" column="57" />
-        <mark key="." line="133" column="57" />
-        <mark key="^" line="133" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1514625946229">
-        <mark key="'" line="93" column="37" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/groups.yml" timestamp="1513837351673">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/tasks/modify_bashrc.yaml" timestamp="1513841277923">
-        <mark key="[" line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
-        <mark key="'" line="64" column="17" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="82" column="33" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
-        <mark key="'" line="124" column="10" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="50" />
-        <mark key="^" line="54" column="11" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" timestamp="1513155455189">
-        <mark key="'" line="169" column="9" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="164" column="9" />
-        <mark key="." line="176" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/users.yml" timestamp="1513836823026">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="52" />
-        <mark key="." line="20" column="52" />
-        <mark key="^" line="20" column="52" />
-      </file>
       <file name="vim_settings.xml" timestamp="1513581738599">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1514626624205">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="55" />
+        <mark key="^" line="40" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1514193985169">
         <mark key="'" line="163" column="0" />
@@ -96,6 +19,26 @@
         <mark key="]" line="164" column="3" />
         <mark key="^" line="144" column="21" />
         <mark key="." line="144" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1514626360069">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="40" column="47" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/add_linux_users.yaml" timestamp="1513837043236">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_lm_admin.sh" timestamp="1514626272428">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/logrotate.d_emp_api" timestamp="1514276115376">
         <mark key="[" line="9" column="87" />
@@ -115,6 +58,13 @@
         <mark key="]" line="23" column="18" />
         <mark key="^" line="242" column="23" />
         <mark key="." line="242" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1512698932763">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/hoge" timestamp="1511922606588">
         <mark key="[" line="0" column="0" />
@@ -141,11 +91,30 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" timestamp="1513836748879">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" timestamp="1511857382839">
+        <mark key="[" line="73" column="56" />
+        <mark key="]" line="73" column="7" />
+        <mark key="." line="73" column="7" />
+        <mark key="^" line="73" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/groups.yml" timestamp="1513836847398">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512704179108">
+        <mark key="'" line="122" column="21" />
+        <mark key="[" line="133" column="57" />
+        <mark key="]" line="133" column="57" />
+        <mark key="." line="133" column="57" />
+        <mark key="^" line="133" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
@@ -166,6 +135,26 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_emp_api.sh" timestamp="1514626166368">
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="40" column="46" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_biz_api.sh" timestamp="1514626290691">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="17" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1512643110756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,8 +168,21 @@
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/modify_authorized_keys.yaml" timestamp="1513841253015">
         <mark key="[" line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1514626690976">
+        <mark key="'" line="99" column="37" />
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="41" />
+        <mark key="." line="65" column="41" />
+        <mark key="^" line="65" column="41" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/deploy_zeus_api.yaml" timestamp="1511853822723">
         <mark key="[" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/groups.yml" timestamp="1513837351673">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/tasks/modify_bashrc.yaml" timestamp="1513841277923">
+        <mark key="[" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1511861795035">
         <mark key="[" line="55" column="0" />
@@ -200,11 +202,32 @@
         <mark key="^" line="124" column="41" />
         <mark key="." line="124" column="41" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
+        <mark key="'" line="64" column="17" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="82" column="33" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
+        <mark key="'" line="124" column="10" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" timestamp="1513155455189">
+        <mark key="'" line="169" column="9" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="164" column="9" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yaml" timestamp="1513839418194">
         <mark key="[" line="118" column="0" />
@@ -226,6 +249,12 @@
         <mark key="^" line="285" column="13" />
         <mark key="." line="303" column="45" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/users.yml" timestamp="1513836823026">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/main.yml" timestamp="1513837808886">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -234,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="33" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
-      <jump line="122" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
-      <jump line="225" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" />
-      <jump line="122" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="33" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" />
@@ -334,6 +359,10 @@
       <jump line="264" column="51" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="55" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="93" column="37" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_biz_api.sh" />
+      <jump line="26" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_lm_admin.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" />
+      <jump line="3" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -345,8 +374,8 @@
       <register name="/" type="4">
         <text>デプロイ</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2hlbGwgc2NyaXB0IHRvIHJ1biBndW5pY29ybiAoYml6X2FwaSkKICB0ZW1wbGF0ZToKICAgIHNyYzogcnVuX2d1bmljb3JuX2Jpel9hcGkuc2gKICAgIGRlc3Q6IC9zcnYvLnZlbnYvYmluL3J1bl9ndW5pY29ybl9iaXpfYXBpLnNoCiAgICBvd25lcjogemV1c25hdmkKICAgIGdyb3VwOiBsZWFkaW5nbWFyawogICAgbW9kZTogMDc1NQogIG5vdGlmeToKICAtIHJlc3RhcnQgc3VwZXJ2aXNvcmQK</text>
+      <register name="0" type="4">
+        <text>gunicorn_scouter_mock_api_pid_file_path</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
