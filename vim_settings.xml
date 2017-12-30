@@ -168,12 +168,12 @@
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/modify_authorized_keys.yaml" timestamp="1513841253015">
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1514626690976">
-        <mark key="'" line="99" column="37" />
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="41" />
-        <mark key="^" line="65" column="41" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1514629204033">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="95" column="36" />
+        <mark key="." line="95" column="36" />
+        <mark key="^" line="95" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/deploy_zeus_api.yaml" timestamp="1511853822723">
         <mark key="[" line="11" column="14" />
@@ -263,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="33" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" />
       <jump line="180" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="224" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="176" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
@@ -358,11 +354,15 @@
       <jump line="254" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="264" column="51" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="55" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="93" column="37" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_biz_api.sh" />
       <jump line="26" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_lm_admin.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" />
       <jump line="3" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" />
+      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -440,6 +440,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
