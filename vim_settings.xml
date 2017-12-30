@@ -242,8 +242,8 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1514629671857">
-        <mark key="'" line="349" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" timestamp="1514630007211">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="303" column="45" />
         <mark key="]" line="303" column="45" />
         <mark key="^" line="285" column="13" />
@@ -263,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="5" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="40" column="32" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="65" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="118" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
@@ -360,9 +359,10 @@
       <jump line="94" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="303" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="349" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -432,17 +432,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
