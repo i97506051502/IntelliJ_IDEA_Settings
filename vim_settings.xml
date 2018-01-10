@@ -79,7 +79,8 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1514276201677">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1515574131880">
+        <mark key="'" line="177" column="26" />
         <mark key="[" line="133" column="45" />
         <mark key="]" line="133" column="47" />
         <mark key="^" line="133" column="47" />
@@ -263,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="32" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="65" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="118" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="178" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
@@ -363,6 +363,7 @@
       <jump line="349" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
+      <jump line="177" column="26" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
