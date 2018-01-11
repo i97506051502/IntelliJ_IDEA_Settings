@@ -20,8 +20,12 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515664294525">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515665533892">
+        <mark key="'" line="223" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1514626360069">
         <mark key="'" line="3" column="10" />
