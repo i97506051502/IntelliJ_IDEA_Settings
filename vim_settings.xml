@@ -137,10 +137,10 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" timestamp="1515663616628">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" timestamp="1515666284528">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="97" column="43" />
-        <mark key="]" line="97" column="43" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="98" column="35" />
         <mark key="^" line="73" column="8" />
         <mark key="." line="97" column="43" />
       </file>
@@ -401,7 +401,7 @@
         <text>デプロイ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgQ3JlYXRlIFB1YmxpYyBIb3N0ZWQgWm9uZShzKSBmb3IgYWltZWV0cy5qcC4KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICFJZgogICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAtICFKb2luIFsnJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZUxvY2FsRG9tYWluTmFtZV1dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgICAtICFKb2luIFsnJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZUxvY2FsRG9tYWluTmFtZV1dCiAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgICAtICFSZWYgU2VydmljZUxvY2FsRG9tYWluTmFtZQogICAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAhUmVmIFNlcnZpY2VEb21haW5OYW1lCg==</text>
