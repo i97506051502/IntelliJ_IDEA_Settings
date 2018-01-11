@@ -20,12 +20,12 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1514193985169">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515660673392">
         <mark key="'" line="163" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="164" column="3" />
-        <mark key="^" line="144" column="21" />
-        <mark key="." line="144" column="21" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1514626360069">
         <mark key="'" line="3" column="10" />
@@ -216,6 +216,11 @@
         <mark key="]" line="93" column="0" />
         <mark key="^" line="82" column="33" />
         <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1515660811307">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
         <mark key="'" line="124" column="10" />
