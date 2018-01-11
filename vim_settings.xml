@@ -6,6 +6,13 @@
       <file name="vim_settings.xml" timestamp="1513581738599">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" timestamp="1515658584665">
+        <mark key="'" line="39" column="22" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1514626624205">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="40" column="55" />
@@ -52,7 +59,7 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" timestamp="1514192853102">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" timestamp="1515657687265">
         <mark key="'" line="239" column="54" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="18" />
@@ -217,6 +224,10 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1515658269682">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="51" column="33" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="0" />
@@ -264,9 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
-      <jump line="118" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
-      <jump line="178" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="114" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
       <jump line="113" column="38" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-cloudwatch-alarm.yaml" />
@@ -364,46 +372,49 @@
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="177" column="26" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
+      <jump line="22" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
+      <jump line="49" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>leadingmark</text>
+        <text encoding="base64">ICFSZWYgU2VydmljZURvbWFpbk5hbWU=</text>
       </register>
       <register name="/" type="4">
         <text>デプロイ</text>
       </register>
-      <register name="0" type="4">
-        <text>gunicorn_scouter_mock_api_pid_file_path</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycuJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBndW5pY29ybiDjg63jgrDjg63jg7zjg4bjg7zjg4jnlKggdmFycyAoZW1wX2FwaSkKZ3VuaWNvcm5fZW1wX2FwaV9sb2dfZmlsZV9wYXRoOiAnL3Zhci9sb2cvZ3VuaWNvcm4vZ3VuaWNvcm4temV1c25hdmktZW1wX2FwaS0qLmxvZycKZ3VuaWNvcm5fZW1wX2FwaV91c2VyOiAnemV1c25hdmknCmd1bmljb3JuX2VtcF9hcGlfZ3JvdXA6ICdsZWFkaW5nbWFyaycKZ3VuaWNvcm5fZW1wX2FwaV9waWRfZmlsZV9wYXRoOiAnL3Zhci9ydW4vZ3VuaWNvcm4uZW1wX2FwaS5waWQnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBlbXBfYXBpIOOBr+WwhuadpeWun+ijheS6iOWumgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlRG9tYWluTmFtZT1haW1lZXRzLmpwIFwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gWyJNeSBob3N0ZWQgem9uZSBmb3IiLCAhUmVmIERvbWFpbk5hbWVdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gIiAiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tZW50OiAhSm9pbgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIGFpbWVldHMtc2FtcGxlLnlhbWwK</text>
+        <text encoding="base64">ICAgICAgSG9zdGVkWm9uZUNvbmZpZzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJc01hc3RlcjogIUVxdWFscyBbIVJlZiBFbnZpcm9ubWVudFR5cGUsIG1hc3Rlcl0K</text>
+        <text encoding="base64">ICAgICAgTmFtZTogIVJlZiBEb21haW5OYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnd3d3JywgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0K</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
+        <text encoding="base64">ICAgIFR5cGU6ICJBV1M6OlJvdXRlNTM6Okhvc3RlZFpvbmUiCg==</text>
       </register>
     </registers>
     <search>
