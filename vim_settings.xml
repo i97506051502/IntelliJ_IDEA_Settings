@@ -6,12 +6,12 @@
       <file name="vim_settings.xml" timestamp="1513581738599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" timestamp="1515658584665">
-        <mark key="'" line="39" column="22" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="7" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" timestamp="1515659982798">
+        <mark key="'" line="45" column="22" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1514626624205">
         <mark key="'" line="5" column="0" />
@@ -387,34 +387,34 @@
         <text>デプロイ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycuJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQo=</text>
+        <text encoding="base64">ICBTZXJ2aWNlRG9tYWluTmFtZToKICAgIERlc2NyaXB0aW9uOiBUaGUgRG9tYWluIE5hbWUgKEZRRE4pIG9mIHNlcnZpY2UuCiAgICBEZWZhdWx0OiBhaW1lZXRzLmpwCiAgICBUeXBlOiBTdHJpbmcKICAgIEFsbG93ZWRWYWx1ZXM6CiAgICAgIC0gYWltZWV0cy5qcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFZQQ1JlZ2lvbjogImFwLW5vcnRoZWFzdC0xIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFZQQ0lkOiAidnBjLWNmNTk3NWFiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gWyJNeSBob3N0ZWQgem9uZSBmb3IiLCAhUmVmIERvbWFpbk5hbWVdCg==</text>
+        <text encoding="base64">ICAgICAgICAtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIiAiCg==</text>
+        <text encoding="base64">ICAgICAgVlBDczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tZW50OiAhSm9pbgo=</text>
+        <text encoding="base64">ICAgICAgICAtIEhvc3RlZFpvbmVWUENzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSG9zdGVkWm9uZUNvbmZpZzoK</text>
+        <text encoding="base64">ICAgICAgVlBDczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTmFtZTogIVJlZiBEb21haW5OYW1lCg==</text>
+        <text encoding="base64">ICAgICAgUXVlcnlMb2dnaW5nQ29uZmlnOiBTdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnRpZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgTmFtZTogU3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFR5cGU6ICJBV1M6OlJvdXRlNTM6Okhvc3RlZFpvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAtICBIb3N0ZWRab25lVGFncwo=</text>
       </register>
     </registers>
     <search>
