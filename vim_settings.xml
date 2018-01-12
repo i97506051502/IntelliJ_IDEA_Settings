@@ -119,10 +119,6 @@
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515736033868">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="46" />
-        <mark key="^" line="40" column="46" />
-        <mark key="." line="40" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/logrotate.d_emp_api" timestamp="1514276115376">
         <mark key="[" line="9" column="87" />
@@ -246,12 +242,12 @@
         <mark key="^" line="124" column="41" />
         <mark key="." line="124" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-ns-records.yaml" timestamp="1515742941257">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-ns-records.yaml" timestamp="1515743920013">
         <mark key="'" line="54" column="32" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="2" />
         <mark key="^" line="56" column="32" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="33" column="2" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1515658269682">
         <mark key="[" line="42" column="0" />
