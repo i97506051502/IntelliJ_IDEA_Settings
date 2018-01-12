@@ -20,12 +20,9 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515665533892">
-        <mark key="'" line="223" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/README.md" timestamp="1515731032738">
+        <mark key="'" line="162" column="0" />
         <mark key="[" line="100" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1514626360069">
         <mark key="'" line="3" column="10" />
@@ -224,12 +221,12 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1515662606971">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="226" column="57" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1515730586958">
+        <mark key="'" line="231" column="14" />
+        <mark key="[" line="229" column="19" />
+        <mark key="]" line="229" column="32" />
+        <mark key="." line="229" column="32" />
+        <mark key="^" line="229" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
         <mark key="'" line="124" column="10" />
@@ -289,9 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" />
-      <jump line="66" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" />
       <jump line="95" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" />
       <jump line="70" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-ec2-app-001.yaml" />
       <jump line="34" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-ec2-app-001.yaml" />
@@ -389,6 +383,9 @@
       <jump line="85" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" />
       <jump line="99" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" />
       <jump line="66" column="13" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" />
+      <jump line="88" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="243" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="231" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
