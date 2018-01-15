@@ -66,10 +66,10 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516005750284">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516007378096">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="59" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="27" />
         <mark key="." line="112" column="59" />
         <mark key="^" line="112" column="59" />
       </file>
@@ -304,8 +304,8 @@
       <register name="/" type="4">
         <text>デプロイ</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W3Byb2dyYW06Z3VuaWNvcm4temV1c19hcGktYml6X2FwaV0KY29tbWFuZD0vc3J2Ly52ZW52L2Jpbi9ydW5fZ3VuaWNvcm5fYml6X2FwaS5zaAojIFRPRE8gcm9vdCDjgafjga/jgarjgY/jg6bjg7zjgrbjg7wgemV1c25hdmkg44Gn5YuV5L2c44Gn44GN44KL44KI44GG44Gr44GZ44KL44CCCnVzZXI9cm9vdAphdXRvc3RhcnQ9dHJ1ZQphdXRvcmVzdGFydD10cnVlCg==</text>
+      <register name="0" type="4">
+        <text>gcp_credential_json_key_path</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gYWltZWV0cy1pbmZyYS1jbG91ZGZvcm1hdGlvbgo=</text>
