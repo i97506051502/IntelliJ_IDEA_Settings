@@ -228,12 +228,6 @@
         <mark key="^" line="116" column="116" />
         <mark key="." line="116" column="116" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1515988535196">
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="68" column="26" />
-        <mark key="." line="68" column="26" />
-        <mark key="^" line="68" column="26" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512032901590">
         <mark key="[" line="151" column="25" />
         <mark key="]" line="161" column="34" />
