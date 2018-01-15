@@ -124,8 +124,8 @@
         <mark key="^" line="133" column="47" />
         <mark key="." line="133" column="47" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" timestamp="1515999757738">
-        <mark key="'" line="60" column="24" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" timestamp="1516004370184">
+        <mark key="'" line="20" column="13" />
         <mark key="[" line="6" column="56" />
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="5" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="51" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="19" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="48" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
@@ -293,6 +292,7 @@
       <jump line="130" column="32" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-ns-records.yaml" />
       <jump line="49" column="33" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" />
       <jump line="60" column="24" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" />
+      <jump line="20" column="13" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
