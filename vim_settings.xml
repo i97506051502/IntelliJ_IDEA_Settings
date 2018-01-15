@@ -228,11 +228,11 @@
         <mark key="^" line="116" column="116" />
         <mark key="." line="116" column="116" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1511861795035">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1515988535196">
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512032901590">
         <mark key="[" line="151" column="25" />
@@ -403,7 +403,7 @@
         <text>デプロイ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBEZXNjcmlwdGlvbjogQ3JlYXRlIEFtYXpvbiBSb3V0ZTUzIG5hbWUgc2VydmVyIHJlY29yZChzKSBmb3IgZGV2LmFpbWVldHMuanAuCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogIFJvdXRlNTNSZWNvcmRTZXRHcm91cHNBSW1lZXRzSnBOYW1lU2VydmVyUmVjb3JkOgogICAgVHlwZTogQVdTOjpSb3V0ZTUzOjpSZWNvcmRTZXQKICAgIFByb3BlcnRpZXM6CiAgICAgIEhvc3RlZFpvbmVOYW1lOiBhaW1lZXRzLmpwCiAgICAgICMgSG9zdGVkWm9uZU5hbWU6CiAgICAgICMgICAtICFJZgogICAgICAjICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgIyAgICAgLSAhSm9pbiBbJycsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgIyAgICAgLSAhSWYKICAgICAgIyAgICAgICAtIElzU3RhZ2luZwogICAgICAjICAgICAgIC0gIUpvaW4gWycnLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCiAgICAgICMgICAgICAgLSAhSWYKICAgICAgIyAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICMgICAgICAgICAtICFSZWYgU2VydmljZURvbWFpbk5hbWUKICAgICAgIyAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgogICAgICAjIE5hbWU6IGltYWdlcy5kZXYuemV1c25hdmkuY29tLgogICAgICBOYW1lOiBkZXYuYWltZWV0cy5qcAogICAgICAgICMgLSAhSWYKICAgICAgICAjICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgIyAgICMgLSAhSm9pbiBbJycsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lXV0KICAgICAgICAjICAgLSBkZXYuYWltZWV0cy5qcAogICAgICAgICMgICAtICFJZgogICAgICAgICMgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgIyAgICAgIyAtICFKb2luIFsnJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQogICAgICAgICMgICAgIC0gc3RnLmFpbWVldHMuanAKICAgICAgICAjICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIKICAgICAgVHlwZTogTlMKICAgICAgVFRMOiAxNzI4MDAKICAgICAgUmVzb3VyY2VSZWNvcmRzOgogICAgICAtIFsgJ25zLTg2OS5hd3NkbnMtNDQubmV0LicsICducy0xMjE0LmF3c2Rucy0yMy5vcmcuJywgJ25zLTE2NjIuYXdzZG5zLTE1LmNvLnVrLicsICducy0xNjYuYXdzZG5zLTIwLmNvbS4nIF0KICAgICAgIyAtIGltYWdlcy5kZXYuemV1c25hdmkuY29tLnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20KICAgICAgICAjIC0gIUlmCiAgICAgICAgIyAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICMgICAtIFsgJ25zLTg2OS5hd3NkbnMtNDQubmV0LicsICducy0xMjE0LmF3c2Rucy0yMy5vcmcuJywgJ25zLTE2NjIuYXdzZG5zLTE1LmNvLnVrLicsICducy0xNjYuYXdzZG5zLTIwLmNvbS4nIF0KICAgICAgICAjICAgLSAhSWYKICAgICAgICAjICAgICAtIElzU3RhZ2luZwogICAgICAgICMgICAgIC0gWyAnbnMtODUzLmF3c2Rucy00Mi5uZXQuJywgJ25zLTEyOTUuYXdzZG5zLTMzLm9yZy4nLCAnbnMtMTAxLmF3c2Rucy0xMi5jb20uJywgJ25zLTE2NjIuYXdzZG5zLTE1LmNvLnVrLicgXQogICAgICAgICMgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
+        <text encoding="base64">LSBuYW1lOiBhZGQgY3VzdG9tIGNvbmZpZ3VyYXRpb24gcGVyIGVudmlyb25tZW50cyBmb3IgRGphbmdvIChiaXpfYXBpKQogIHRlbXBsYXRlOgogICAgc3JjOiBiaXpfYXBpLmN1c3RvbS5weQogICAgZGVzdDogL3Nydi96ZXVzX2FwaS9iaXpfYXBpL2N1c3RvbS5weQogICAgb3duZXI6IHpldXNuYXZpCiAgICBncm91cDogbGVhZGluZ21hcmsKICAgIG1vZGU6IDA2NDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gYWltZWV0cy1pbmZyYS1jbG91ZGZvcm1hdGlvbgo=</text>
