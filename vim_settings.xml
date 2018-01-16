@@ -159,7 +159,7 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1515574131880">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1516088881741">
         <mark key="'" line="177" column="26" />
         <mark key="[" line="133" column="45" />
         <mark key="]" line="133" column="47" />
@@ -185,6 +185,13 @@
         <mark key="]" line="71" column="0" />
         <mark key="^" line="37" column="40" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516089096196">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="117" column="15" />
+        <mark key="]" line="117" column="23" />
+        <mark key="^" line="117" column="23" />
+        <mark key="." line="117" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/groups.yml" timestamp="1513836847398">
         <mark key="[" line="0" column="23" />
@@ -230,6 +237,12 @@
         <mark key="]" line="70" column="19" />
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/set-bigquery-service-account.yaml" timestamp="1516089076694">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" timestamp="1515739953381">
         <mark key="'" line="34" column="0" />
@@ -295,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="19" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="48" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="64" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
@@ -395,19 +407,20 @@
       <jump line="49" column="33" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" />
       <jump line="60" column="24" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" />
       <jump line="20" column="13" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ssm-parameter-store.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pip install -r requirements.txt</text>
+        <text>zeusnavi api log files</text>
       </register>
       <register name="/" type="4">
         <text>デプロイ</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JCAudmVudi9iaW4vYW5zaWJsZS1nYWxheHkgaW5pdCA844Ot44O844Or5ZCNPgo=</text>
+      <register name="0" type="4">
+        <text>aimeets-bigquery-service-account_directory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JCBjZCByb2xlcwo=</text>
