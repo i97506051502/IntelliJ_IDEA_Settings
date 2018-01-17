@@ -42,6 +42,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/main.yaml" timestamp="1516155903930">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1512698932763">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="62" column="0" />
@@ -89,12 +95,12 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516092936307">
-        <mark key="'" line="41" column="23" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="113" column="90" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516156581477">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="112" column="46" />
+        <mark key="]" line="112" column="48" />
+        <mark key="^" line="112" column="48" />
+        <mark key="." line="112" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
         <mark key="'" line="64" column="17" />
@@ -164,12 +170,12 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1516155076895">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="199" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1516156725373">
+        <mark key="'" line="187" column="38" />
+        <mark key="[" line="198" column="4" />
+        <mark key="]" line="198" column="4" />
+        <mark key="." line="198" column="4" />
+        <mark key="^" line="197" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/users.yml" timestamp="1513837387605">
         <mark key="[" line="0" column="0" />
@@ -222,6 +228,12 @@
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/app_servers.yaml" timestamp="1516155976573">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="50" />
+        <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" timestamp="1515724476452">
         <mark key="'" line="66" column="13" />
@@ -282,10 +294,6 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-certificate.yaml" timestamp="1515658269682">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="51" column="33" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_alarm_zeusnavi.com.sh" timestamp="1513146649895">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="0" />
@@ -320,9 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="52" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
-      <jump line="137" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
-      <jump line="193" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="157" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" />
       <jump line="182" column="29" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="24" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" />
@@ -420,46 +425,49 @@
       <jump line="119" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="41" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="64" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
+      <jump line="187" column="38" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
+      <jump line="110" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/aimeets-dev-db6ec0d08a44.json'</text>
+        <text encoding="base64">IHt7IGFpbWVldHMtYmlncXVlcnktc2VydmljZS1hY2NvdW50LWZpbGUtcGF0aCB9fSc=</text>
       </register>
       <register name="/" type="4">
         <text>aimeets</text>
       </register>
-      <register name="0" type="4">
-        <text>'{{ aimeets-bigquery-service-account-directory }}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAgICAgZGVzdDogJy92YXIvZ2NwL2xlYWRpbmdtYXJrL2FpbWVldHMvYWltZWV0cy1kZXYtZGI2ZWMwZDA4YTQ0Lmpzb24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1maWxlLXBhdGg6ICcvdmFyL2djcC9sZWFkaW5nbWFyay9haW1lZXRzL2FpbWVldHMtZGV2LWRiNmVjMGQwOGE0NC5qc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R0NQX0NSRURFTlRJQUxfSlNPTl9LRVlfUEFUSCA9ICd7eyBnY3BfY3JlZGVudGlhbF9qc29uX2tleV9wYXRoIH19Jwo=</text>
+        <text encoding="base64">LSBuYW1lOiBmb28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R0NQX0NSRURFTlRJQUxfSlNPTl9LRVlfUEFUSCA9ICd7eyBnY3BfY3JlZGVudGlhbF9qc29uX2tleV9wYXRoIH19Jwo=</text>
+        <text encoding="base64">IyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1maWxlLXBhdGg6ICcvdmFyL2djcC9sZWFkaW5nbWFyay9haW1lZXRzL2FpbWVldHMtZGV2LWRiNmVjMGQwOGE0NC5qc29uJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICd7eyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1kaXJlY3RvcnkgfX0nCg==</text>
+        <text encoding="base64">R0NQX0NSRURFTlRJQUxfSlNPTl9LRVlfUEFUSCA9ICd7eyBnY3BfY3JlZGVudGlhbF9qc29uX2tleV9wYXRoIH19Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG93bmVyOiB6ZXVzbmF2aQo=</text>
+        <text encoding="base64">R0NQX0NSRURFTlRJQUxfSlNPTl9LRVlfUEFUSCA9ICd7eyBnY3BfY3JlZGVudGlhbF9qc29uX2tleV9wYXRoIH19Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG93bmVyOiB6ZXVzbmF2aQo=</text>
+        <text encoding="base64">ICAgIHBhdGg6ICd7eyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1kaXJlY3RvcnkgfX0nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgb3duZXI6IGFpbWVldHMK</text>
+        <text encoding="base64">ICAgIG93bmVyOiB6ZXVzbmF2aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgb3duZXI6IGFpbWVldHMK</text>
+        <text encoding="base64">ICAgIG93bmVyOiB6ZXVzbmF2aQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb3duZXI6IGFpbWVldHMK</text>
       </register>
     </registers>
     <search>
