@@ -95,12 +95,12 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516156581477">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516186036376">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="112" column="46" />
-        <mark key="]" line="112" column="48" />
-        <mark key="^" line="112" column="48" />
-        <mark key="." line="112" column="48" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="113" column="37" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
         <mark key="'" line="64" column="17" />
@@ -170,12 +170,11 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1516156725373">
-        <mark key="'" line="187" column="38" />
-        <mark key="[" line="198" column="4" />
-        <mark key="]" line="198" column="4" />
-        <mark key="." line="198" column="4" />
-        <mark key="^" line="197" column="5" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1516186043769">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="195" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/add_linux_users/tasks/users.yml" timestamp="1513837387605">
         <mark key="[" line="0" column="0" />
@@ -447,34 +446,34 @@
         <text>aimeets</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIiIK</text>
+        <text encoding="base64">YWltZWV0cy1iaWdxdWVyeS1zZXJ2aWNlLWFjY291bnQtZGlyZWN0b3J5OiAnL2V0Yy9nY3AvbGVhZGluZ21hcmsvYWltZWV0cycKYWltZWV0cy1iaWdxdWVyeS1zZXJ2aWNlLWFjY291bnQtZmlsZS1wYXRoOiAne3sgYWltZWV0cy1iaWdxdWVyeS1zZXJ2aWNlLWFjY291bnQtZGlyZWN0b3J5IH19L2FpbWVldHMtZGV2LWRiNmVjMGQwOGE0NC5qc29uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGF0aDogL2V0Yy9nY3AvbGVhZGluZ21hcmsvYWltZWV0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAiYXV0b2Rpc2NvdmVyLm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLiIK</text>
+        <text encoding="base64">ICAgICMgZGVzdDogL2V0Yy9nY3AvbGVhZGluZ21hcmsvYWltZWV0cy9haW1lZXRzLWRldi1kYjZlYzBkMDhhNDQuanNvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtICJhdXRvZGlzY292ZXIubWFpbC51cy13ZXN0LTIuYXdzYXBwcy5jb20uIgo=</text>
+        <text encoding="base64">IyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1maWxlLXBhdGg6ICd7eyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1kaXJlY3RvcnkgfX0vYWltZWV0cy1kZXYtZGI2ZWMwZDA4YTQ0Lmpzb24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gImF1dG9kaXNjb3Zlci5tYWlsLnVzLXdlc3QtMi5hd3NhcHBzLmNvbS4iCg==</text>
+        <text encoding="base64">IyBhaW1lZXRzLWJpZ3F1ZXJ5LXNlcnZpY2UtYWNjb3VudC1kaXJlY3Rvcnk6ICcvZXRjL2djcC9sZWFkaW5nbWFyay9haW1lZXRzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtICJtYWlsLnVzLXdlc3QtMi5hd3NhcHBzLmNvbS4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAibWFpbC51cy13ZXN0LTIuYXdzYXBwcy5jb20uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAiYXV0b2Rpc2NvdmVyLm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICJhdXRvZGlzY292ZXIubWFpbC51cy13ZXN0LTIuYXdzYXBwcy5jb20uIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgQW1hem9uIFJvdXRlNTMgQ05BTUUgUmVjb3JkIDEgZm9yIGFpbWVldHMuanAuCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogIFJvdXRlNTNSZWNvcmRTZXRBSW1lZXRzSnBNWFJlY29yZDoKICAgIFR5cGU6IEFXUzo6Um91dGU1Mzo6UmVjb3JkU2V0CiAgICBQcm9wZXJ0aWVzOgogICAgICAjIEhvc3RlZFpvbmVOYW1lOiBhaW1lZXRzLmpwLgogICAgICBIb3N0ZWRab25lTmFtZToKICAgICAgICAhSWYKICAgICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgICAtICFKb2luIFsnJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lLCAnLiddXQogICAgICAgIC0gIUlmCiAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgLSAhSm9pbiBbJycsIFshUmVmIEVudmlyb25tZW50VHlwZSwgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy4nXV0KICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy4nXV0KICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgICMgTmFtZTogX2FtYXpvbnNlcy5haW1lZXRzLmpwLgogICAgICBOYW1lOgogICAgICAgICFJZgogICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgIC0gIUpvaW4gWycnLCBbJ2F1dG9kaXNjb3Zlci4nLCAhUmVmIEVudmlyb25tZW50VHlwZSwgJy4nLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lLCAnLiddXQogICAgICAgIC0gIUlmCiAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgLSAhSm9pbiBbJycsIFsnYXV0b2Rpc2NvdmVyLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcuJ11dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAtICFKb2luIFsnJywgWydhdXRvZGlzY292ZXIuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZSwgJy4nXV0KICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgIFR5cGU6IENOQU1FCiAgICAgIFRUTDogMzAwCiAgICAgICMgUmVzb3VyY2VSZWNvcmRzOgogICAgICAjIC0gIm1mSkZyRE1QQWRJVDh6c1N4YnU3R3VSTlU2d3dHaGh0Q2pZMEcvNjZFaWc9IgogICAgICBSZXNvdXJjZVJlY29yZHM6CiAgICAgICAgLSAhSWYKICAgICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICAgLSAiYXV0b2Rpc2NvdmVyLm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLiIKICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAgIC0gImF1dG9kaXNjb3Zlci5tYWlsLnVzLXdlc3QtMi5hd3NhcHBzLmNvbS4iCiAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgICAtICJhdXRvZGlzY292ZXIubWFpbC51cy13ZXN0LTIuYXdzYXBwcy5jb20uIgogICAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gImF1dG9kaXNjb3Zlci5tYWlsLnVzLXdlc3QtMi5hd3NhcHBzLmNvbS4iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICJtYWlsLnVzLXdlc3QtMi5hd3NhcHBzLmNvbS4iCg==</text>
       </register>
     </registers>
     <search>
