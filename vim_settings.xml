@@ -122,6 +122,12 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mail-records.yaml" timestamp="1516262592712">
+        <mark key="[" line="104" column="65" />
+        <mark key="]" line="104" column="65" />
+        <mark key="." line="104" column="65" />
+        <mark key="^" line="104" column="65" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-kms.yaml" timestamp="1513155455189">
         <mark key="'" line="169" column="9" />
         <mark key="[" line="176" column="0" />
