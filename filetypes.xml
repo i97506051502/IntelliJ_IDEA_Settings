@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hoge" type="PLAIN_TEXT" />
+      <mapping ext="d_emp_api" type="PLAIN_TEXT" />
+      <mapping ext="d_scouter_mock_api" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
