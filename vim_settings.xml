@@ -109,8 +109,8 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1516171802258">
-        <mark key="'" line="165" column="8" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1516258614677">
+        <mark key="'" line="242" column="6" />
         <mark key="[" line="233" column="0" />
         <mark key="]" line="242" column="33" />
         <mark key="." line="224" column="0" />
@@ -334,10 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
-      <jump line="32" column="71" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
-      <jump line="191" column="25" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
-      <jump line="223" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="186" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="239" column="54" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="172" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
@@ -434,6 +430,10 @@
       <jump line="156" column="11" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mx-records.yaml" />
       <jump line="294" column="13" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mx-records.yaml" />
       <jump line="196" column="13" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mx-records.yaml" />
+      <jump line="8" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="228" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="242" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
