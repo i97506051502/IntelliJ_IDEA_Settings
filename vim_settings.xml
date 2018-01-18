@@ -17,13 +17,6 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1511947548680">
-        <mark key="'" line="35" column="23" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_zeus_api.sh" timestamp="1511850388901">
         <mark key="[" line="35" column="48" />
         <mark key="]" line="35" column="48" />
@@ -36,13 +29,6 @@
         <mark key="[" line="35" column="19" />
         <mark key="]" line="35" column="19" />
         <mark key="." line="35" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/zeus_api.custom.py" timestamp="1511862318018">
-        <mark key="'" line="78" column="28" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/tasks/main.yml" timestamp="1511861795035">
         <mark key="[" line="55" column="0" />
@@ -62,12 +48,6 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1511857464077">
-        <mark key="[" line="138" column="42" />
-        <mark key="]" line="138" column="42" />
-        <mark key="^" line="138" column="54" />
-        <mark key="." line="138" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512032901590">
         <mark key="[" line="151" column="25" />
@@ -93,13 +73,6 @@
         <mark key="]" line="5" column="40" />
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/emp_api.custom.py" timestamp="1512032983210">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/templates/mock_api.custom.py" timestamp="1511849047123">
         <mark key="[" line="4" column="28" />
