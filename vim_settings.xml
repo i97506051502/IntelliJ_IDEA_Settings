@@ -95,10 +95,10 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516186036376">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1516336389690">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="30" />
         <mark key="^" line="113" column="37" />
         <mark key="." line="112" column="0" />
       </file>
@@ -215,6 +215,13 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" timestamp="1516336627847">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="37" />
+        <mark key="." line="70" column="17" />
+        <mark key="^" line="70" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
         <mark key="[" line="5" column="24" />
@@ -287,11 +294,12 @@
         <mark key="^" line="116" column="116" />
         <mark key="." line="116" column="116" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1512032901590">
-        <mark key="[" line="151" column="25" />
-        <mark key="]" line="161" column="34" />
-        <mark key="^" line="161" column="34" />
-        <mark key="." line="161" column="34" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1516336590077">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="236" column="32" />
+        <mark key="]" line="236" column="43" />
+        <mark key="^" line="236" column="43" />
+        <mark key="." line="236" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" timestamp="1512640702469">
         <mark key="[" line="124" column="41" />
@@ -340,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
-      <jump line="239" column="54" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="172" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="245" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
@@ -440,6 +446,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="228" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="242" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" />
+      <jump line="155" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -451,8 +459,8 @@
       <register name="/" type="4">
         <text>aimeets</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNyYzogYWltZWV0cy1kZXYtZGI2ZWMwZDA4YTQ0Lmpzb24K</text>
+      <register name="0" type="4">
+        <text>emp.biz.dev.zeusnavi.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNyYzogICAgIHNyYzogYWltZWV0cy1kZXYtZGI2ZWMwZDA4YTQ0Lmpzb25haW1lZXRzLWRldi1kYjZlYzBkMDhhNDQuanNvbgo=</text>
