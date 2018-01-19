@@ -215,12 +215,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" timestamp="1516337639529">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" timestamp="1516339750087">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="70" column="18" />
-        <mark key="]" line="70" column="18" />
-        <mark key="." line="70" column="18" />
-        <mark key="^" line="70" column="17" />
+        <mark key="[" line="80" column="14" />
+        <mark key="]" line="80" column="18" />
+        <mark key="." line="80" column="18" />
+        <mark key="^" line="80" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/scouter_mock_api/tasks/main.yml" timestamp="1511855775444">
         <mark key="'" line="37" column="1" />
