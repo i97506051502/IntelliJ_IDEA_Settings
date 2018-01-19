@@ -294,12 +294,12 @@
         <mark key="^" line="116" column="116" />
         <mark key="." line="116" column="116" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1516336590077">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="236" column="32" />
-        <mark key="]" line="236" column="43" />
-        <mark key="^" line="236" column="43" />
-        <mark key="." line="236" column="43" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" timestamp="1516342610322">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="239" column="18" />
+        <mark key="]" line="239" column="18" />
+        <mark key="^" line="226" column="25" />
+        <mark key="." line="239" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" timestamp="1512640702469">
         <mark key="[" line="124" column="41" />
@@ -348,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="245" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="198" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
@@ -448,6 +447,7 @@
       <jump line="242" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" />
       <jump line="155" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" />
+      <jump line="97" column="4" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -457,7 +457,7 @@
         <text encoding="base64">IERBUGlyT0Q4dUVFMDkzLzYvK0I5QllCeGh1THVYZUVUR0tWN2RYVXo0SUE9Ig==</text>
       </register>
       <register name="/" type="4">
-        <text>aimeets</text>
+        <text>scouter</text>
       </register>
       <register name="0" type="4">
         <text>emp.biz.dev.zeusnavi.com</text>
@@ -491,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aimeets</last-search>
+      <last-search>scouter</last-search>
       <last-offset />
-      <last-pattern>aimeets</last-pattern>
+      <last-pattern>scouter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -509,6 +509,7 @@
         <entry>Topic</entry>
         <entry>デプロイ</entry>
         <entry>aimeets</entry>
+        <entry>scouter</entry>
       </history-search>
       <history-cmd />
       <history-expr />
