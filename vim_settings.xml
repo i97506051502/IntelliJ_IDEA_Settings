@@ -278,12 +278,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1516777786439">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="50" column="65" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1516782286645">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="28" column="65" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/set-bigquery-service-account.yaml" timestamp="1516091007480">
         <mark key="'" line="14" column="4" />
@@ -352,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="54" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3.yaml" />
       <jump line="172" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="245" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
@@ -452,6 +451,7 @@
       <jump line="191" column="52" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
+      <jump line="39" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -470,28 +470,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RGVzY3JpcHRpb246IENyZWF0ZSBBbWF6b24gUm91dGU1MyBUWFQsIE1YLCBDTkFNRSBSZWNvcmQgc2V0IGdyb3VwKHMpIGZvciBhaW1lZXRzLmpwLgo=</text>
+        <text encoding="base64">ICBJc0RldmVsb3BtZW50OiAhRXF1YWxzIFshUmVmIEVudmlyb25tZW50VHlwZSwgZGV2XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RGVzY3JpcHRpb246IENyZWF0ZSBTdWJuZXQocyksIE5BVCBHYXRld2F5KHMpLCBBZGQgUm91dGUocykgVG8gUm91dGUgVGFibGUocyksIEFzc29jaWF0ZSBSb3V0ZSBUYWJsZSBUbyBTdWJuZXQocyksIEFzc29jaWF0ZSBOZXR3b3JrQUNMKHMpIFRvIFN1Ym5ldChzKSBmb3IgemV1c25hdmkuY29tLgo=</text>
+        <text encoding="base64">ICBJc1N0YWdpbmc6ICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBzdGddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJc1Byb2R1Y3Rpb246ICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBwcmRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkRlc2lnbmVyCg==</text>
+        <text encoding="base64">Q29uZGl0aW9uczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkludGVyZmFjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIEFXUzo6Q2xvdWRGb3JtYXRpb246OkluaXQK</text>
+        <text encoding="base64">ICAgICAgLSBhaW1lZXRzLmpwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMaWNlbnNlOiBDb3B5cmlnaHQgKGMpIDIwMTcgTGVhZGluZyBNYXJrLCBJbmMuCg==</text>
+        <text encoding="base64">ICAgIEFsbG93ZWRWYWx1ZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWV0YWRhdGE6Cg==</text>
+        <text encoding="base64">ICAgIFR5cGU6IFN0cmluZwo=</text>
       </register>
     </registers>
     <search>
