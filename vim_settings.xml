@@ -42,7 +42,7 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/main.yaml" timestamp="1516155903930">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/main.yaml" timestamp="1517219147565">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
@@ -108,6 +108,12 @@
         <mark key="]" line="115" column="123" />
         <mark key="^" line="115" column="123" />
         <mark key="." line="115" column="123" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/main.yml" timestamp="1517219204266">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/shell_script/add_cloudwatch_metric_filter_zeusnavi.com.sh" timestamp="1513241306247">
         <mark key="'" line="64" column="17" />
@@ -262,6 +268,11 @@
         <mark key="]" line="43" column="58" />
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="58" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/bastion/bastion.yaml" timestamp="1517219241354">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zones.yaml" timestamp="1515724476452">
         <mark key="'" line="66" column="13" />
@@ -479,7 +490,7 @@
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_amazonses.aimeets.jp.</text>
+        <text>add_user_and_group.yaml</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
@@ -488,31 +499,31 @@
         <text encoding="base64">ICAgICAgUmVzb3VyY2VSZWNvcmRzOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">YXBwX3NlcnZlcl9ob3N0bmFtZV8xOiAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDTkFNRQlweHJjaWFsaGRwbnVjbTZueW16eGFnaXN0NGp3NXV2ZS5fZG9tYWlua2V5LmFpbWVldHMuanAuCXB4cmNpYWxoZHBudWNtNm55bXp4YWdpc3Q0anc1dXZlLmRraW0uYW1hem9uc2VzLmNvbS4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBDTkFNRQl2dnRtcHJtcGpybWFzdXJ3Nmhjd3JzcGZnYWh6c3k2Ni5fZG9tYWlua2V5LmFpbWVldHMuanAuCXZ2dG1wcm1wanJtYXN1cnc2aGN3cnNwZmdhaHpzeTY2LmRraW0uYW1hem9uc2VzLmNvbS4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBDTkFNRQlwam00N3ZzZmt1b3NrbnMzNm5vZWxoZGtmcngya3V6Ni5fZG9tYWlua2V5LmFpbWVldHMuanAuCXBqbTQ3dnNma3Vvc2tuczM2bm9lbGhka2ZyeDJrdXo2LmRraW0uYW1hem9uc2VzLmNvbS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBDTkFNRQlhdXRvZGlzY292ZXIuYWltZWV0cy5qcC4JYXV0b2Rpc2NvdmVyLm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBNWAlhaW1lZXRzLmpwLgkxMCBpbmJvdW5kLXNtdHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20uCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Iwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBDTkFNRQlweHJjaWFsaGRwbnVjbTZueW16eGFnaXN0NGp3NXV2ZS5fZG9tYWlua2V5LmFpbWVldHMuanAuCXB4cmNpYWxoZHBudWNtNm55bXp4YWdpc3Q0anc1dXZlLmRraW0uYW1hem9uc2VzLmNvbS4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBDTkFNRQl2dnRtcHJtcGpybWFzdXJ3Nmhjd3JzcGZnYWh6c3k2Ni5fZG9tYWlua2V5LmFpbWVldHMuanAuCXZ2dG1wcm1wanJtYXN1cnc2aGN3cnNwZmdhaHpzeTY2LmRraW0uYW1hem9uc2VzLmNvbS4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBDTkFNRQlwam00N3ZzZmt1b3NrbnMzNm5vZWxoZGtmcngya3V6Ni5fZG9tYWlua2V5LmFpbWVldHMuanAuCXBqbTQ3dnNma3Vvc2tuczM2bm9lbGhka2ZyeDJrdXo2LmRraW0uYW1hem9uc2VzLmNvbS4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBDTkFNRQlhdXRvZGlzY292ZXIuYWltZWV0cy5qcC4JYXV0b2Rpc2NvdmVyLm1haWwudXMtd2VzdC0yLmF3c2FwcHMuY29tLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBNWAlhaW1lZXRzLmpwLgkxMCBpbmJvdW5kLXNtdHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20uCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyA8cHJkPgo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyA8cHJkPgo=</text>
       </register>
     </registers>
     <search>
