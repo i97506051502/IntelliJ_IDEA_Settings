@@ -95,6 +95,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets-mappings.yaml" timestamp="1517299395375">
+        <mark key="[" line="81" column="6" />
+        <mark key="]" line="81" column="11" />
+        <mark key="." line="81" column="11" />
+        <mark key="^" line="81" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="26" column="1" />
@@ -123,11 +129,10 @@
         <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1517295770660">
-        <mark key="'" line="181" column="8" />
-        <mark key="[" line="263" column="48" />
-        <mark key="]" line="263" column="48" />
-        <mark key="." line="263" column="48" />
-        <mark key="^" line="263" column="11" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
         <mark key="'" line="124" column="10" />
@@ -308,11 +313,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1517282335252">
-        <mark key="[" line="421" column="35" />
-        <mark key="]" line="422" column="13" />
-        <mark key="^" line="422" column="13" />
-        <mark key="." line="422" column="13" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1517299628477">
+        <mark key="'" line="575" column="8" />
+        <mark key="[" line="384" column="2" />
+        <mark key="]" line="384" column="7" />
+        <mark key="^" line="384" column="7" />
+        <mark key="." line="384" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1516782286645">
         <mark key="'" line="17" column="17" />
@@ -385,10 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/README.md" />
-      <jump line="177" column="26" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="22" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
-      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
       <jump line="49" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-hosted-zone.yaml" />
       <jump line="160" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="10" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
@@ -485,6 +487,10 @@
       <jump line="259" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="75" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="181" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="456" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
+      <jump line="29" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
+      <jump line="490" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -494,43 +500,43 @@
         <text>1 ASPMX.L.GOOGLE.COM&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Mapping</text>
+        <text>ISRedun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnJywgWydhaW1lZXRzLXN1cnZleW1vbmtleS11c2VyLWNzdi0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgQ3JlYXRlIEFXUyBCYXRjaCBTdWJuZXQocykKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogIEFXU0JhdGNoU3VibmV0QUltZWV0c0pwMWE6CiAgICBUeXBlOiBBV1M6OkVDMjo6U3VibmV0CiAgICBQcm9wZXJ0aWVzOgogICAgICBBdmFpbGFiaWxpdHlab25lOiBhcC1ub3J0aGVhc3QtMWEKICAgICAgQ2lkckJsb2NrOgogICAgICAgICFJZgogICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgIC0gIUZpbmRJbk1hcCBbU3VibmV0QUltZWV0c0pwRGV2LCBBV1NCYXRjaFN1Ym5ldEFJbWVldHNKcCwgMWFdCiAgICAgICAgLSAhSWYKICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAtICFGaW5kSW5NYXAgW1N1Ym5ldEFJbWVldHNKcFN0ZywgQVdTQmF0Y2hTdWJuZXRBSW1lZXRzSnAsIDFhXQogICAgICAgICAgLSAhSWYKICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgLSAhRmluZEluTWFwIFtTdWJuZXRBSW1lZXRzSnBQcmQsIEFXU0JhdGNoU3VibmV0QUltZWV0c0pwLCAxYV0KICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgIFZwY0lkOgogICAgICAgICFJZgogICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgIC0gIUltcG9ydFZhbHVlIGRldi1yZWNtZS12cGMtVnBjSWQKICAgICAgICAtICFJZgogICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgIC0gIUltcG9ydFZhbHVlIHN0Zy1yZWNtZS12cGMtVnBjSWQKICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgIC0gIUltcG9ydFZhbHVlIHByZC1yZWNtZS12cGMtVnBjSWQKICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCiAgICAgIFRhZ3M6CiAgICAgIC0gS2V5OiBOYW1lCiAgICAgICAgVmFsdWU6CiAgICAgICAgICAhSWYKICAgICAgICAgIC0gSXNEZXZlbG9wbWVudAogICAgICAgICAgLSAhSm9pbiBbJy0nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICdhaW1lZXRzLWF3c2JhdGNoLXN1Ym5ldC0xYSddXQogICAgICAgICAgLSAhSWYKICAgICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgICAgLSAhSm9pbiBbJy0nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICdhaW1lZXRzLWF3c2JhdGNoLXN1Ym5ldC0xYSddXQogICAgICAgICAgICAtICFJZgogICAgICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCiAgICAgICAgICAgICAgLSAhSm9pbiBbJy0nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICdhaW1lZXRzLWF3c2JhdGNoLXN1Ym5ldC0xYSddXQogICAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgoKICBBV1NCYXRjaFN1Ym5ldEFJbWVldHNKcDFjOgogICAgVHlwZTogQVdTOjpFQzI6OlN1Ym5ldAogICAgQ29uZGl0aW9uOiBJU1JlZHVuZGFuY3kKICAgIFByb3BlcnRpZXM6CiAgICAgIEF2YWlsYWJpbGl0eVpvbmU6IGFwLW5vcnRoZWFzdC0xYwogICAgICBDaWRyQmxvY2s6CiAgICAgICAgIUlmCiAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgLSAhRmluZEluTWFwIFtTdWJuZXRBSW1lZXRzSnBEZXYsIEFXU0JhdGNoU3VibmV0QUltZWV0c0pwLCAxY10KICAgICAgICAtICFJZgogICAgICAgICAgLSBJc1N0YWdpbmcKICAgICAgICAgIC0gIUZpbmRJbk1hcCBbU3VibmV0QUltZWV0c0pwU3RnLCBBV1NCYXRjaFN1Ym5ldEFJbWVldHNKcCwgMWNdCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAtICFGaW5kSW5NYXAgW1N1Ym5ldEFJbWVldHNKcFByZCwgQVdTQmF0Y2hTdWJuZXRBSW1lZXRzSnAsIDFjXQogICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIKICAgICAgVnBjSWQ6CiAgICAgICAgIUlmCiAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgLSAhSW1wb3J0VmFsdWUgZGV2LXJlY21lLXZwYy1WcGNJZAogICAgICAgIC0gIUlmCiAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgLSAhSW1wb3J0VmFsdWUgc3RnLXJlY21lLXZwYy1WcGNJZAogICAgICAgICAgLSAhSWYKICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgLSAhSW1wb3J0VmFsdWUgcHJkLXJlY21lLXZwYy1WcGNJZAogICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIKICAgICAgVGFnczoKICAgICAgLSBLZXk6IE5hbWUKICAgICAgICBWYWx1ZToKICAgICAgICAgICFJZgogICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAtICFKb2luIFsnLScsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJ2FpbWVldHMtYXdzYmF0Y2gtc3VibmV0LTFjJ11dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzU3RhZ2luZwogICAgICAgICAgICAtICFKb2luIFsnLScsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJ2FpbWVldHMtYXdzYmF0Y2gtc3VibmV0LTFjJ11dCiAgICAgICAgICAgIC0gIUlmCiAgICAgICAgICAgICAgLSBJc1Byb2R1Y3Rpb24KICAgICAgICAgICAgICAtICFKb2luIFsnLScsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJ2FpbWVldHMtYXdzYmF0Y2gtc3VibmV0LTFjJ11dCiAgICAgICAgICAgICAgLSAhUmVmICJBV1M6Ok5vVmFsdWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnYWltZWV0cy1jbG91ZGZvcm1hdGlvbi0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
+        <text encoding="base64">ICAgICAgRWxhc3RpQ2FjaGVTdWJuZXRBSW1lZXRzSnA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2FpbWVldHMtY2xvdWRmb3JtYXRpb24tJywgIVJlZiBFbnZpcm9ubWVudFR5cGVdXQo=</text>
+        <text encoding="base64">ICAgICAgRWxhc3RpQ2FjaGVTdWJuZXRBSW1lZXRzSnA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiMSBBU1BNWC5MLkdPT0dMRS5DT00iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSm9pbiBbJycsIFsnYWltZWV0cy1jbG91ZGZvcm1hdGlvbi0nLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAiMSBBU1BNWC5MLkdPT0dMRS5DT00iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2FpbWVldHMtY2xvdWRmb3JtYXRpb24tJywgIVJlZiBFbnZpcm9ubWVudFR5cGVdXQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgLSAiMSBBU1BNWC5MLkdPT0dMRS5DT00iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
+        <text encoding="base64">ICAgICAgLSAiMSBBU1BNWC5MLkdPT0dMRS5DT00iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIjEwIGluYm91bmQtc210cC51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS4iCg==</text>
+        <text encoding="base64">ICAgICAgLSAiMSBBU1BNWC5MLkdPT0dMRS5DT00iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAtICFJZgo=</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIjEwIGluYm91bmQtc210cC51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS4iCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Mapping</last-search>
+      <last-search>ISRedun</last-search>
       <last-offset />
-      <last-pattern>Mapping</last-pattern>
+      <last-pattern>ISRedun</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -550,6 +556,7 @@
         <entry>custom.py</entry>
         <entry>custom</entry>
         <entry>Mapping</entry>
+        <entry>ISRedun</entry>
       </history-search>
       <history-cmd />
       <history-expr />
