@@ -48,6 +48,13 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-05.yaml" timestamp="1517797837750">
+        <mark key="'" line="166" column="27" />
+        <mark key="[" line="168" column="22" />
+        <mark key="]" line="168" column="36" />
+        <mark key="^" line="168" column="36" />
+        <mark key="." line="168" column="36" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/zeus_api/templates/lm_admin.custom.py" timestamp="1512698932763">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="62" column="0" />
@@ -115,12 +122,12 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-01.yaml" timestamp="1517463957642">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-01.yaml" timestamp="1517797319671">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="158" column="18" />
-        <mark key="]" line="23" column="30" />
-        <mark key="^" line="139" column="38" />
-        <mark key="." line="139" column="38" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" timestamp="1517463178613">
         <mark key="'" line="67" column="0" />
@@ -153,6 +160,13 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-roles-for-enabling-switch-role_2018-02-05.yaml" timestamp="1517797939094">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="344" column="9" />
+        <mark key="]" line="344" column="23" />
+        <mark key="." line="344" column="23" />
+        <mark key="^" line="344" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
         <mark key="'" line="124" column="10" />
@@ -422,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="16" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" />
       <jump line="106" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" />
       <jump line="46" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" />
       <jump line="34" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-records.yaml" />
@@ -522,43 +534,45 @@
       <jump line="43" column="1" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-roles-for-enabling-switch-role_2018-02-01.yaml" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-01.yaml" />
       <jump line="131" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-01.yaml" />
+      <jump line="166" column="27" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-users-in-master-aws-account_2018-02-05.yaml" />
+      <jump line="320" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/add-iam-roles-for-enabling-switch-role_2018-02-05.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>saorimurakami</text>
+        <text>KenjiMorita</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAyMDE4LTAyLTAxIOaZgueCueOBp+S9nOaIkOa4iOOBv+OBriBJQU0g44Om44O844K244O8Cg==</text>
+        <text encoding="base64">ICBJYW1Sb2xlS2VuamlNb3JpdGE6CiAgICBUeXBlOiAiQVdTOjpJQU06OlJvbGUiCiAgICBQcm9wZXJ0aWVzOgogICAgICBBc3N1bWVSb2xlUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgICBTdGF0ZW1lbnQ6CiAgICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgIEFXUzogYXJuOmF3czppYW06OjIyNDU5NjQ3NjIxNDpyb290CiAgICAgICAgICAgQWN0aW9uOiBzdHM6QXNzdW1lUm9sZQogICAgICAgICAgIENvbmRpdGlvbjoge30KICAgICAgTWFuYWdlZFBvbGljeUFybnM6CiAgICAgICAgLSBhcm46YXdzOmlhbTo6YXdzOnBvbGljeS9BZG1pbmlzdHJhdG9yQWNjZXNzCiAgICAgIFBhdGg6ICIvIgogICAgICBSb2xlTmFtZToKICAgICAgICAhSWYKICAgICAgICAtIElzRGV2ZWxvcG1lbnQKICAgICAgICAtICFKb2luIFsnLicsIFshUmVmICJBV1M6OlJlZ2lvbiIsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAna2VuamkubW9yaXRhQGxlYWRpbmdtYXJrLmpwJ11dCiAgICAgICAgLSAhSWYKICAgICAgICAgIC0gSXNTdGFnaW5nCiAgICAgICAgICAtICFKb2luIFsnLicsIFshUmVmICJBV1M6OlJlZ2lvbiIsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAna2VuamkubW9yaXRhQGxlYWRpbmdtYXJrLmpwJ11dCiAgICAgICAgICAtICFJZgogICAgICAgICAgICAtIElzUHJvZHVjdGlvbgogICAgICAgICAgICAtICFKb2luIFsnLicsIFshUmVmICJBV1M6OlJlZ2lvbiIsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAna2VuamkubW9yaXRhQGxlYWRpbmdtYXJrLmpwJ11dCiAgICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICFSZWYgSUFNVXNlckRlcGxveQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMaWNlbnNlOiBBUEFDSEUgTElDRU5TRSwgVkVSU0lPTiAyLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWV0YWRhdGE6Cg==</text>
+        <text encoding="base64">IyDmnKzjg4bjg7Pjg5fjg6zjg7zjg4jjgafov73liqDjgZnjgosgSUFNIOODpuODvOOCtuODvOOBryBrZW5qaS5tb3JpdGFAbGVhZGluZ21hcmsuanAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICFSZWYgSUFNVXNlckRlcGxveQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBMaWNlbnNlOiBBUEFDSEUgTElDRU5TRSwgVkVSU0lPTiAyLjAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">TWV0YWRhdGE6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
