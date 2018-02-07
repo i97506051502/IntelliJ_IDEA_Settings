@@ -160,10 +160,6 @@
         <mark key="^" line="307" column="0" />
         <mark key="." line="307" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-subnet.yaml" timestamp="1517462136795">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="66" column="68" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-bastion-001.yaml" timestamp="1517987485764">
         <mark key="'" line="86" column="27" />
         <mark key="[" line="6" column="47" />
@@ -206,7 +202,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" timestamp="1517996393572">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" timestamp="1518002924590">
         <mark key="'" line="85" column="18" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="48" />
@@ -304,6 +300,7 @@
         <mark key="^" line="116" column="116" />
         <mark key="." line="116" column="116" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-lb.yaml" timestamp="1518003102128" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-002.yaml" timestamp="1517987739937">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="129" column="33" />
@@ -311,12 +308,12 @@
         <mark key="." line="129" column="33" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-lb.yaml" timestamp="1517991947907">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-lb.yaml" timestamp="1518003158987">
         <mark key="'" line="103" column="15" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="102" column="90" />
-        <mark key="^" line="102" column="90" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="117" column="13" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-ns-records.yaml" timestamp="1516168675039">
         <mark key="'" line="40" column="32" />
@@ -447,40 +444,40 @@
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>dev-zeusnavi-certificate-CertificateZeusNaviArn</text>
       </register>
       <register name="/" type="4">
         <text>ELBZeus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TWV0YWRhdGE6CiAgTGljZW5zZTogQ29weXJpZ2h0IChjKSAyMDE4IExlYWRpbmcgTWFyaywgSW5jLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUltcG9ydFZhbHVlIGFpbWVldHMtY2VydGlmaWNhdGVzLUNlcnRpZmljYXRlQUltZWVldHNKcEFybgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgQVdTOjpDbG91ZEZvcm1hdGlvbjo6RGVzaWduZXIK</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIlwiYXJuOmF3czphY206dXMtZWFzdC0xOjUwNTE0MjEwNTY3NDpjZXJ0aWZpY2F0ZS83YTBjN2ZhZi0yZGNiLTQ3Y2UtOThiYy00MTc5YTc2ZGRkNDhcIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQVdTOjpDbG91ZEZvcm1hdGlvbjo6SW5pdAo=</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpY2Vuc2U6IENvcHlyaWdodCAoYykgMjAxNyBMZWFkaW5nIE1hcmssIEluYy4K</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAtICFJZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAtICJcImFybjphd3M6YWNtOnVzLWVhc3QtMTo1ODI1MjI3MTc0MzI6Y2VydGlmaWNhdGUvNTkxMzQwMWYtMzgxYy00MDkwLWFhNzItNWM4ZGZkZjRlY2NmXCIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TWV0YWRhdGE6Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAtIElzU3RhZ2luZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBzdGddCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgLSAhSWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBwcmRdCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgLSAiXCJhcm46YXdzOmFjbTp1cy1lYXN0LTE6Mjk4MDQxNTI3NzY0OmNlcnRpZmljYXRlLzBlMTRlZTU5LTdjMWUtNGI2Mi1iNmVhLTI1NjAyZGJkYWY1ZFwiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBJU1JlZHVuZGFuY3k6ICFPcgo=</text>
+        <text encoding="base64">ICAgICAgIyAgICAgLSBJc0RldmVsb3BtZW50Cg==</text>
       </register>
     </registers>
     <search>
