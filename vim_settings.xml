@@ -87,12 +87,6 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets-mappings.yaml" timestamp="1517299395375">
-        <mark key="[" line="81" column="6" />
-        <mark key="]" line="81" column="11" />
-        <mark key="." line="81" column="11" />
-        <mark key="^" line="81" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="26" column="1" />
@@ -212,10 +206,10 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" timestamp="1517990710355">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="96" column="37" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" timestamp="1517996393572">
+        <mark key="'" line="85" column="18" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="48" />
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
@@ -239,6 +233,13 @@
         <mark key="]" line="5" column="40" />
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-rds.yaml" timestamp="1517996665712">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="102" column="44" />
+        <mark key="]" line="102" column="43" />
+        <mark key="^" line="102" column="43" />
+        <mark key="." line="102" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mx-records.yaml" timestamp="1516175186222">
         <mark key="'" line="243" column="13" />
@@ -282,8 +283,8 @@
         <mark key="^" line="398" column="30" />
         <mark key="." line="527" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1517990621005">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1517996202686">
+        <mark key="'" line="12" column="46" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="28" column="65" />
@@ -340,10 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
-      <jump line="313" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
-      <jump line="605" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
-      <jump line="622" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
       <jump line="529" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
       <jump line="758" column="38" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
       <jump line="851" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnet.yaml" />
@@ -440,46 +437,50 @@
       <jump line="103" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-lb.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-users.yaml" />
+      <jump line="12" column="46" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" />
+      <jump line="85" column="18" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" />
+      <jump line="53" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-rds.yaml" />
+      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-rds.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICFKb2luIFsnLicsIFshUmVmIEVudmlyb25tZW50VHlwZSwgJ3MzLm9ubHkudXBsb2FkLmRldi56ZXVzbmF2aS5jb20nXV0=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>ELBZeus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CkNvbmRpdGlvbnM6CiAgSXNQcm9kdWN0aW9uOiAhRXF1YWxzIFshUmVmIEVudmlyb25tZW50VHlwZSwgcHJkXQogIElzU3RhZ2luZzogIUVxdWFscyBbIVJlZiBFbnZpcm9ubWVudFR5cGUsIHN0Z10KICBJc0RldmVsb3BtZW50OiAhRXF1YWxzIFshUmVmIEVudmlyb25tZW50VHlwZSwgZGV2XQogIElTUmVkdW5kYW5jeTogIU9yCiAgLSAhRXF1YWxzIFshUmVmIEVudmlyb25tZW50VHlwZSwgcHJkXQogIC0gIUVxdWFscyBbIVJlZiBFbnZpcm9ubWVudFR5cGUsIHN0Z10K</text>
+        <text encoding="base64">TWV0YWRhdGE6CiAgTGljZW5zZTogQ29weXJpZ2h0IChjKSAyMDE4IExlYWRpbmcgTWFyaywgSW5jLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBzdGddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBwcmRdCg==</text>
+        <text encoding="base64">ICAgICMgQVdTOjpDbG91ZEZvcm1hdGlvbjo6RGVzaWduZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBJU1JlZHVuZGFuY3k6ICFPcgo=</text>
+        <text encoding="base64">ICAgICMgQVdTOjpDbG91ZEZvcm1hdGlvbjo6SW5pdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLSAhSm9pbiBbJy4nLCBbIVJlZiBFbnZpcm9ubWVudFR5cGUsICdzMy5vbmx5LnVwbG9hZC5haW1lZXRzLmpwJ11dCg==</text>
+        <text encoding="base64">ICAgIExpY2Vuc2U6IENvcHlyaWdodCAoYykgMjAxNyBMZWFkaW5nIE1hcmssIEluYy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gIUpvaW4gWycuJywgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCAnczMub25seS51cGxvYWQuYWltZWV0cy5qcCddXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhcm46YXdzOnMzOjo6aW1hZ2VzLmRldi56ZXVzbmF2aS5jb20K</text>
+        <text encoding="base64">TWV0YWRhdGE6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gIUpvaW4gWycuJywgWyd3aWxkY2FyZCcsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQo=</text>
+        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBzdGddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnLicsIFsnd2lsZGNhcmQnLCAhUmVmIEVudmlyb25tZW50VHlwZSwgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCg==</text>
+        <text encoding="base64">ICAtICFFcXVhbHMgWyFSZWYgRW52aXJvbm1lbnRUeXBlLCBwcmRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAhSm9pbiBbJy4nLCBbJ3dpbGRjYXJkJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICFSZWYgU2VydmljZURvbWFpbk5hbWVdXQo=</text>
+        <text encoding="base64">ICBJU1JlZHVuZGFuY3k6ICFPcgo=</text>
       </register>
     </registers>
     <search>
