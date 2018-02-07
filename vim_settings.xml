@@ -129,10 +129,10 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" timestamp="1517907515568">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="441" column="24" />
-        <mark key="]" line="442" column="5" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" timestamp="1517974514613">
+        <mark key="'" line="547" column="6" />
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="96" column="19" />
         <mark key="." line="442" column="5" />
         <mark key="^" line="442" column="5" />
       </file>
@@ -444,11 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="94" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="119" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="41" column="23" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="187" column="38" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="110" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="46" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mx-records.yaml" />
@@ -544,6 +539,11 @@
       <jump line="878" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="78" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
       <jump line="45" column="25" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
+      <jump line="543" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
+      <jump line="14" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
+      <jump line="547" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -553,10 +553,10 @@
         <text encoding="base64">IElTUHJvZHVjdGlvbg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWZcPg==</text>
+        <text>Mapping</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBOZXR3b3JrQUNMRW50cnlMYW1iZGFTdWJuZXRJbmJvdW5kOgogICAgVHlwZTogIkFXUzo6RUMyOjpOZXR3b3JrQWNsRW50cnkiCiAgICBQcm9wZXJ0aWVzOgogICAgICBDaWRyQmxvY2s6IDAuMC4wLjAvMAogICAgICBFZ3Jlc3M6ICdmYWxzZScKICAgICAgTmV0d29ya0FjbElkOgogICAgICAgICFSZWYgTmV0d29ya0FDTExhbWJkYVN1Ym5ldAogICAgICBQcm90b2NvbDogJy0xJwogICAgICBSdWxlQWN0aW9uIDogYWxsb3cKICAgICAgUnVsZU51bWJlciA6ICcxMDAnCiAgTmV0d29ya0FDTEVudHJ5TGFtYmRhU3VibmV0T3V0Ym91bmQ6CiAgICBUeXBlOiAiQVdTOjpFQzI6Ok5ldHdvcmtBY2xFbnRyeSIKICAgIFByb3BlcnRpZXM6CiAgICAgIENpZHJCbG9jazogMC4wLjAuMC8wCiAgICAgIEVncmVzczogJ3RydWUnCiAgICAgIE5ldHdvcmtBY2xJZDoKICAgICAgICAhUmVmIE5ldHdvcmtBQ0xMYW1iZGFTdWJuZXQKICAgICAgUHJvdG9jb2w6ICctMScKICAgICAgUnVsZUFjdGlvbiA6IGFsbG93CiAgICAgIFJ1bGVOdW1iZXIgOiAnMTAwJwo=</text>
+      <register name="0" type="4">
+        <text>FindInMap</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgUnVsZU51bWJlciA6ICcxMDAnCg==</text>
@@ -587,10 +587,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWZcPg==</last-search>
+      <last-search>Mapping</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWZcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Mapping</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -607,9 +607,9 @@
         <entry>aimeets</entry>
         <entry>custom.py</entry>
         <entry>custom</entry>
-        <entry>Mapping</entry>
         <entry>ISRedun</entry>
         <entry encoding="base64">XDxSZWZcPg==</entry>
+        <entry>Mapping</entry>
       </history-search>
       <history-cmd />
       <history-expr />
