@@ -64,12 +64,12 @@
         <mark key="^" line="64" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-securitygroup.yaml" timestamp="1517984579745">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-securitygroup.yaml" timestamp="1518158433538">
         <mark key="'" line="193" column="10" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="^" line="289" column="6" />
-        <mark key="." line="332" column="0" />
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
+        <mark key="^" line="583" column="50" />
+        <mark key="." line="599" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/linux_users/tasks/main.yml" timestamp="1513836748879">
         <mark key="[" line="112" column="0" />
@@ -576,34 +576,34 @@
         <text>ELBZeus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZW1haWxfYmFja2VuZDogJ3V0aWxzLm1haWwuWmV1c0VtYWlsQmFja2VuZCcK</text>
+        <text encoding="base64">ICAgICAgICBGcm9tUG9ydDogJzYzNzknCiAgICAgICAgVG9Qb3J0OiAnNjM3OScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBhaW1lZXRzLmpwIOOBriBFTEIg44K744Kt44Ol44Ki44Od44O844OIIChTU0wg6Ki85piO5pu4KSDjga/miYvli5XoqK3lrprjgZnjgovlv4XopoHjgYzjgYLjgovjgIJTU0wg6Ki85piO5pu444KSIHVzLWVhc3QtMSDjga4gQUNNIOOBp+eZuuihjOOBl+OBpuOBhOOCi+OBn+OCgeOAggo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICFSZWYgIkFXUzo6Tm9WYWx1ZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtICFGaW5kSW5NYXAgW1N1Ym5ldEFJbWVldHNKcFByZCwgQVdTQmF0Y2hTdWJuZXRBSW1lZXRzSnAsIGFsbF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gIlwiYXJuOmF3czphY206dXMtZWFzdC0xOjUwNTE0MjEwNTY3NDpjZXJ0aWZpY2F0ZS83YTBjN2ZhZi0yZGNiLTQ3Y2UtOThiYy00MTc5YTc2ZGRkNDhcIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIElzUHJvZHVjdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhSWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAtICFJZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAhRmluZEluTWFwIFtTdWJuZXRBSW1lZXRzSnBTdGcsIEFXU0JhdGNoU3VibmV0QUltZWV0c0pwLCBhbGxdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAtICJcImFybjphd3M6YWNtOnVzLWVhc3QtMTo1ODI1MjI3MTc0MzI6Y2VydGlmaWNhdGUvNTkxMzQwMWYtMzgxYy00MDkwLWFhNzItNWM4ZGZkZjRlY2NmXCIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBJc1N0YWdpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgICAtIElzU3RhZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgLSAhSWYK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIUZpbmRJbk1hcCBbU3VibmV0QUltZWV0c0pwRGV2LCBBV1NCYXRjaFN1Ym5ldEFJbWVldHNKcCwgMWFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgLSAiXCJhcm46YXdzOmFjbTp1cy1lYXN0LTE6Mjk4MDQxNTI3NzY0OmNlcnRpZmljYXRlLzBlMTRlZTU5LTdjMWUtNGI2Mi1iNmVhLTI1NjAyZGJkYWY1ZFwiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXNEZXZlbG9wbWVudAo=</text>
       </register>
     </registers>
     <search>
