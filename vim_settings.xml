@@ -153,10 +153,10 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518165058176">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518166659125">
         <mark key="'" line="185" column="10" />
-        <mark key="[" line="181" column="28" />
-        <mark key="]" line="181" column="28" />
+        <mark key="[" line="305" column="23" />
+        <mark key="]" line="305" column="47" />
         <mark key="." line="181" column="28" />
         <mark key="^" line="181" column="28" />
       </file>
@@ -576,8 +576,8 @@
       <register name="/" type="4">
         <text>ELBZeus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2Fybjphd3M6czM6OjonLCAnYWltZWV0cy1pbWFnZXMnLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lLCAnLyonXV0K</text>
+      <register name="0" type="4">
+        <text>aimeets-surveymonkey-csv-</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2Fybjphd3M6czM6OjonLCAnYWltZWV0cy1pbWFnZXMnLCAhUmVmIFNlcnZpY2VEb21haW5OYW1lLCAnLyonXV0K</text>
