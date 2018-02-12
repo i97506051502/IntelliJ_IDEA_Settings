@@ -286,10 +286,10 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518418153328">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518420794981">
         <mark key="'" line="167" column="4" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="45" />
         <mark key="^" line="178" column="16" />
         <mark key="." line="168" column="0" />
       </file>
@@ -485,12 +485,18 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="122" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" timestamp="1518419174951">
-        <mark key="'" line="66" column="9" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="5" column="2" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" timestamp="1518420597659">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="56" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/supervisord.conf.jinja2" timestamp="1518421453302">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="1" />
+        <mark key="." line="89" column="1" />
+        <mark key="^" line="89" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518409022452">
         <mark key="'" line="246" column="0" />
@@ -675,7 +681,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/install_yum_packages.yaml" timestamp="1518416169856">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/install_yum_packages.yaml" timestamp="1518420969174">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="30" column="3" />
         <mark key="^" line="30" column="3" />
@@ -702,7 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="4" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mail-records.yaml" />
       <jump line="104" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mail-records.yaml" />
       <jump line="128" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-mail-records.yaml" />
       <jump line="96" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-certificates.yaml" />
@@ -802,6 +807,7 @@
       <jump line="32" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
       <jump line="65" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
+      <jump line="59" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -813,8 +819,8 @@
       <register name="/" type="4">
         <text>restart</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYWltZWV0cwo=</text>
+      <register name="0" type="4">
+        <text>virtualenv .venv --python=python3.6</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -842,6 +848,9 @@
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIG93bmVyOiByb290Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -874,7 +883,9 @@
         <entry>zeus</entry>
         <entry>restart</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>q!</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
