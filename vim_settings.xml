@@ -664,12 +664,11 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518429802765">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518431961715">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="74" />
-        <mark key="^" line="20" column="74" />
-        <mark key="." line="20" column="74" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/bastion/tasks/upgrade_virtualenv.yaml" timestamp="1518410331441">
         <mark key="[" line="1" column="27" />
@@ -782,7 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="809" column="7" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="846" column="47" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="878" column="14" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="78" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/vpc.yaml" />
@@ -869,7 +867,6 @@
       <jump line="65" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
       <jump line="59" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
       <jump line="83" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/templates/emp_api.custom.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/templates/emp_api.custom.py" />
       <jump line="92" column="31" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/templates/emp_api.custom.py" />
@@ -882,6 +879,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/templates/biz_api.custom.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/templates/biz_api.custom.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" />
+      <jump line="12" column="20" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -891,52 +890,51 @@
         <text>&quot;redis://127.0.0.1:6379/1&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>BigQuery</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtLXVzZXI9YWltZWV0cyAtLWdyb3VwPWxlYWRpbmdtYXJrIFwK</text>
+        <text encoding="base64">ZW1haWxfYmFja2VuZDogJ3V0aWxzLm1haWwuWmV1c0VtYWlsQmFja2VuZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW1haWxfYmFja2VuZDogJ3V0aWxzLm1haWwuWmV1c0VtYWlsQmFja2VuZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBSU1FRVRTX0JJR1FVRVJZX1NFUlZJQ0VfQUNDT1VOVF9GSUxFX1BBVEggPSAne3sgYWltZWV0c19iaWdxdWVyeV9zZXJ2aWNlX2FjY291bnRfZmlsZV9wYXRoIH19Jwo=</text>
+        <text encoding="base64">dXRpbHMubWFpbC5aZXVzRW1haWxCYWNrZW5kJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aICjmg4XloLHmoLzntI3lhYjjgpIgUkRTIOOBq+WkieabtOOBl+OBn+OBn+OCgeS4jeW/heimgSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IyBBSU1FRVRTX0JJR1FVRVJZX1NFUlZJQ0VfQUNDT1VOVF9GSUxFX1BBVEggPSAne3sgYWltZWV0c19iaWdxdWVyeV9zZXJ2aWNlX2FjY291bnRfZmlsZV9wYXRoIH19Jwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aICjmg4XloLHmoLzntI3lhYjjgpIgUkRTIOOBq+WkieabtOOBl+OBn+OBn+OCgeS4jeW/heimgSkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aCg==</text>
+        <text encoding="base64">IyBBSU1FRVRTX0JJR1FVRVJZX1NFUlZJQ0VfQUNDT1VOVF9GSUxFX1BBVEggPSAne3sgYWltZWV0c19iaWdxdWVyeV9zZXJ2aWNlX2FjY291bnRfZmlsZV9wYXRoIH19Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYWltZWV0cwo=</text>
+        <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aICjmg4XloLHmoLzntI3lhYjjgpIgUkRTIOOBq+WkieabtOOBl+OBn+OBn+OCgeS4jeW/heimgSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWNvbWVfdXNlcjogYWltZWV0cwo=</text>
+        <text encoding="base64">IyBHQ1AgQmlnUXVlcnkg55So44Gu6Kit5a6aCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>BigQuery</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>BigQuery</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>custom.py</entry>
         <entry>custom</entry>
         <entry>ISRedun</entry>
         <entry encoding="base64">XDxSZWZcPg==</entry>
@@ -956,6 +954,7 @@
         <entry>restart</entry>
         <entry>aws_batch</entry>
         <entry>BigQuery</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
