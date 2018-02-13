@@ -688,12 +688,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1518496880049">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1518498081007">
         <mark key="'" line="557" column="6" />
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="38" column="1" />
-        <mark key="^" line="37" column="45" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/set-bigquery-service-account.yaml" timestamp="1516091007480">
         <mark key="'" line="14" column="4" />
