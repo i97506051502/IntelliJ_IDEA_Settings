@@ -86,12 +86,6 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets-mappings.yaml" timestamp="1517299395375">
-        <mark key="[" line="81" column="6" />
-        <mark key="]" line="81" column="11" />
-        <mark key="." line="81" column="11" />
-        <mark key="^" line="81" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/README.md" timestamp="1513069585032">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="26" column="1" />
@@ -385,12 +379,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/bastion/tasks/main.yaml" timestamp="1518415451013">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/playbooks/ssh-add.yml" timestamp="1518175206446">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="30" />
@@ -531,12 +519,12 @@
         <mark key="." line="89" column="1" />
         <mark key="^" line="89" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518409022452">
-        <mark key="'" line="246" column="0" />
-        <mark key="[" line="271" column="1" />
-        <mark key="]" line="271" column="1" />
-        <mark key="." line="271" column="1" />
-        <mark key="^" line="271" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518497078884">
+        <mark key="'" line="237" column="1" />
+        <mark key="[" line="277" column="1" />
+        <mark key="]" line="277" column="1" />
+        <mark key="." line="277" column="1" />
+        <mark key="^" line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/recme_cloudformation/activate-cloudtrail-all-region.yaml" timestamp="1514193603568">
         <mark key="'" line="124" column="10" />
@@ -586,12 +574,6 @@
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/nginx.conf" timestamp="1518415982081">
-        <mark key="[" line="224" column="22" />
-        <mark key="]" line="224" column="28" />
-        <mark key="." line="224" column="28" />
-        <mark key="^" line="224" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/bastion/templates/deploy_bash_profile_file.jinja2" timestamp="1518411296455">
         <mark key="[" line="22" column="60" />
@@ -706,12 +688,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1517981870034">
-        <mark key="'" line="555" column="6" />
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="527" column="31" />
-        <mark key="^" line="398" column="30" />
-        <mark key="." line="527" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" timestamp="1518496880049">
+        <mark key="'" line="557" column="6" />
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="38" column="1" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/set-bigquery-service-account.yaml" timestamp="1516091007480">
         <mark key="'" line="14" column="4" />
@@ -739,18 +721,6 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/bastion/templates/deploy_ssh_config.jinja2" timestamp="1518416760166">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/install_yum_packages.yaml" timestamp="1518420969174">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-002.yaml" timestamp="1518495053267">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="44" column="47" />
@@ -772,8 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1131" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="555" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-subnets.yaml" />
       <jump line="130" column="34" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-001.yaml" />
       <jump line="43" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-001.yaml" />
@@ -872,46 +840,48 @@
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-instance-profiles.yaml" />
       <jump line="206" column="6" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-instance-profiles.yaml" />
       <jump line="159" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-instance-profiles.yaml" />
+      <jump line="19" column="37" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="237" column="1" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>bastion</text>
+        <text encoding="base64">ICFGaW5kSW5NYXAgW1N1Ym5ldEFJbWVldHNKcERldiwgUHVibGljU3VibmV0QUltZWV0c0pwLCAxYV0=</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgSWFtSW5zdGFuY2VQcm9maWxlOiBFQzJJbnN0YW5jZVByb2ZpbGVGb3JCYXN0aW9uCg==</text>
+        <text encoding="base64">ICAgICNMb2NhdGlvbjogJ3MzOi8vYWltZWV0cy1jbG91ZGZvcm1hdGlvbi1kZXYvYWltZWV0cy1zdWJuZXRzLW1hcHBpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRGVwZW5kc09uOiBBV1NJQU1Sb2xlRm9yRUMySW5zdGFuY2VQcm9maWxlRm9yQmFzdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gJ3MzOi8vYWltZWV0cy1jbG91ZGZvcm1hdGlvbi1wcmQvYWltZWV0cy1zdWJuZXRzLW1hcHBpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRGVwZW5kc09uOiBBV1NJQU1Sb2xlRm9yRUMySW5zdGFuY2VQcm9maWxlRm9yQXBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXNQcm9kdWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICFJZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGVwZW5kc09uOiBBV1NJQU1Sb2xlRm9yRUMySW5zdGFuY2VQcm9maWxlRm9yQmFzdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAtICdzMzovL2FpbWVldHMtY2xvdWRmb3JtYXRpb24tc3RnL2FpbWVldHMtc3VibmV0cy1tYXBwaW5ncy55YW1sJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSW5zdGFuY2VQcm9maWxlTmFtZTogRUMySW5zdGFuY2VQcm9maWxlRm9yQmFzdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAtIElzU3RhZ2luZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIElBTVJvbGVGb3JFQzJJbnN0YW5jZVByb2ZpbGVGb3JCYXN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgLSAhSWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUm9sZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgLSAnczM6Ly9haW1lZXRzLWNsb3VkZm9ybWF0aW9uLWRldi9haW1lZXRzLXN1Ym5ldHMtbWFwcGluZ3MueWFtbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGF0aDogJy8nCg==</text>
+        <text encoding="base64">ICAgICAgLSBJc0RldmVsb3BtZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
