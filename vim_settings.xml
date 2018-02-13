@@ -431,12 +431,12 @@
         <mark key="^" line="64" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-securitygroup.yaml" timestamp="1518158433538">
-        <mark key="'" line="193" column="10" />
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
-        <mark key="^" line="583" column="50" />
-        <mark key="." line="599" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-securitygroup.yaml" timestamp="1518501888521">
+        <mark key="'" line="195" column="10" />
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/supervisord.conf" timestamp="1515992040385">
         <mark key="'" line="49" column="33" />
@@ -854,7 +854,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICNMb2NhdGlvbjogJ3MzOi8vYWltZWV0cy1jbG91ZGZvcm1hdGlvbi1kZXYvYWltZWV0cy1zdWJuZXRzLW1hcHBpbmdzLnlhbWwnCg==</text>
+        <text encoding="base64">ICAgIExvY2F0aW9uOiAnczM6Ly9haW1lZXRzLWNsb3VkZm9ybWF0aW9uLWRldi9haW1lZXRzLXN1Ym5ldHMtbWFwcGluZ3MueWFtbCcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIC0gIVJlZiAiQVdTOjpOb1ZhbHVlIgo=</text>
