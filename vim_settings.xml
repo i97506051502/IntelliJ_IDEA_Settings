@@ -52,6 +52,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/old_ansible/README.md" timestamp="1518169988258" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets-2.yaml" timestamp="1518582813358">
         <mark key="'" line="204" column="20" />
         <mark key="[" line="199" column="1" />
@@ -155,6 +156,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-route53-records.yaml" timestamp="1518507152115" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-bastion-001-2.yaml" timestamp="1518527126795">
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="27" />
@@ -235,6 +237,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/cloudformation/zeusnavi-lb.yaml" timestamp="1518489760808" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/app_awslogs.conf" timestamp="1512640702469">
         <mark key="[" line="124" column="41" />
         <mark key="]" line="124" column="41" />
@@ -321,6 +324,7 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/common/tasks/install_yum_packages.yaml" timestamp="1518607684056" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-001-2.yaml" timestamp="1518527131624">
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="27" />
@@ -538,6 +542,7 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/logrotate.d_emp_api" timestamp="1518416301542" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/main.yaml" timestamp="1518417529251">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="43" />
