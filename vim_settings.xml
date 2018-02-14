@@ -63,12 +63,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="57" column="88" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets-2.yaml" timestamp="1518577131904">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets-2.yaml" timestamp="1518582813358">
         <mark key="'" line="204" column="20" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
+        <mark key="[" line="199" column="1" />
+        <mark key="]" line="199" column="1" />
         <mark key="^" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+        <mark key="." line="199" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/common/templates/bastion_awslogs.conf" timestamp="1512704179108">
         <mark key="'" line="122" column="21" />
