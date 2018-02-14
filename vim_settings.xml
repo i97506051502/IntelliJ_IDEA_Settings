@@ -90,9 +90,9 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_biz_api.sh" timestamp="1518430017502">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="38" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_biz_api.sh" timestamp="1518611974135">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="33" />
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
       </file>
@@ -373,11 +373,11 @@
         <mark key="]" line="44" column="27" />
         <mark key="." line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_std_api.sh" timestamp="1518414827099">
-        <mark key="[" line="40" column="47" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="49" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_std_api.sh" timestamp="1518612021579">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="41" column="49" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/bastion/bastion.yml" timestamp="1518593739881">
         <mark key="[" line="12" column="71" />
@@ -385,8 +385,8 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="70" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" timestamp="1518423903735">
-        <mark key="'" line="59" column="2" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" timestamp="1518611908418">
+        <mark key="'" line="81" column="17" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -416,6 +416,12 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1518612007278">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="38" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/host_vars/dev-aimeets-bastion-001.yaml" timestamp="1518169870531">
         <mark key="[" line="1" column="15" />
@@ -483,6 +489,12 @@
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518431961715">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/test/hosts" timestamp="1518599728517">
         <mark key="[" line="1" column="8" />
@@ -589,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="35" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="35" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="36" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="21" column="9" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
@@ -689,6 +700,7 @@
       <jump line="38" column="2" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
       <jump line="46" column="12" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="133" column="25" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-subnets-2.yaml" />
+      <jump line="81" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/aimeets_api/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -701,7 +713,7 @@
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIHB5dGhvbjM2CiAgLSBweXRob24zNi1kZXZlbAogIC0gcHl0aG9uMzYtbGlicwogIC0gcHl0aG9uMzYtc2V0dXB0b29scy5ub2FyY2gKICAtIHB5dGhvbjM2LXRlc3QKICAtIHB5dGhvbjM2LXRvb2xzCg==</text>
+        <text encoding="base64">IyAgIC0tdXNlcj0kVVNFUiAtLWdyb3VwPSRHUk9VUCBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
