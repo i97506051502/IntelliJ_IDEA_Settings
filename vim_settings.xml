@@ -404,6 +404,7 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/app/tasks/install_yum_packages.yaml" timestamp="1518610025550" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518575664287">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -506,6 +507,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/bastion/tasks/install_yum_packages.yaml" timestamp="1518610059254">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/zeus_infra/ansible/roles/app/templates/run_gunicorn_emp_api.sh" timestamp="1514626166368">
         <mark key="[" line="40" column="46" />
@@ -694,7 +701,7 @@
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnLScsIFsnYWltZWV0cy1pbWFnZXMnLCAhUmVmIEVudmlyb25tZW50VHlwZV1dCg==</text>
+        <text encoding="base64">ICAtIHB5dGhvbjM2CiAgLSBweXRob24zNi1kZXZlbAogIC0gcHl0aG9uMzYtbGlicwogIC0gcHl0aG9uMzYtc2V0dXB0b29scy5ub2FyY2gKICAtIHB5dGhvbjM2LXRlc3QKICAtIHB5dGhvbjM2LXRvb2xzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
