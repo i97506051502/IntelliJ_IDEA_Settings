@@ -334,12 +334,12 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518594557656">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518604625737">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="7" column="36" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="20" column="75" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/add_linux_users/tasks/main.yaml" timestamp="1518409372579">
         <mark key="'" line="102" column="11" />
@@ -970,7 +970,7 @@
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFtaS04NjMwOTBlOA==</text>
+        <text>aimeetsdbinstancedev.cvbs2oo5fmgv.ap-northeast-2.rds.amazonaws.com'</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
