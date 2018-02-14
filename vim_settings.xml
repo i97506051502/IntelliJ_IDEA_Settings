@@ -214,12 +214,18 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518605951794">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518616878437">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="85" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="76" />
         <mark key="." line="17" column="85" />
         <mark key="^" line="17" column="85" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/aimeets_api/tasks/main.yml" timestamp="1518616815246">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518602266437">
         <mark key="'" line="151" column="9" />
@@ -501,11 +507,12 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518431961715">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" timestamp="1518616831963">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/inventories/test/hosts" timestamp="1518599728517">
         <mark key="[" line="1" column="8" />
@@ -724,34 +731,34 @@
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgQW1hem9uIFJvdXRlNTMgbmFtZSBzZXJ2ZXIgcmVjb3JkKHMpIGZvciBzdGcuYWltZWV0cy5qcC4KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiAgUm91dGU1M1JlY29yZFNldEFJbWVldHNKcE5hbWVTZXJ2ZXJSZWNvcmRTdGc6CiAgICBUeXBlOiBBV1M6OlJvdXRlNTM6OlJlY29yZFNldAogICAgUHJvcGVydGllczoKICAgICAgSG9zdGVkWm9uZU5hbWU6IGFpbWVldHMuanAuCiAgICAgIE5hbWU6IHN0Zy5haW1lZXRzLmpwCiAgICAgIFR5cGU6IE5TCiAgICAgIFRUTDogMTcyODAwCiAgICAgIFJlc291cmNlUmVjb3JkczoKICAgICAgLSBucy04NTMuYXdzZG5zLTQyLm5ldC4KICAgICAgLSBucy0xMjk1LmF3c2Rucy0zMy5vcmcuCiAgICAgIC0gbnMtMTAxLmF3c2Rucy0xMi5jb20uCiAgICAgIC0gbnMtMTY2Mi5hd3NkbnMtMTUuY28udWsuCg==</text>
+        <text encoding="base64">cmVkaXNfbG9jYXRpb246ICdkZXYtYWltZWV0cy1lYy1yZWRpcy5tejQ2b3MuMDAwMS5hcHNlMS5jYWNoZS5hbWF6b25hd3MuY29tJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xMDEuYXdzZG5zLTEyLmNvbS4K</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xMjk1LmF3c2Rucy0zMy5vcmcuCg==</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBucy04NTMuYXdzZG5zLTQyLm5ldC4K</text>
+        <text encoding="base64">cmVkaXNfbG9jYXRpb246ICdkZXYtYWltZWV0cy1lYy1yZWRpcy5xanVlMHEuMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xNjYyLmF3c2Rucy0xNS5jby51ay4K</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jaDU5d2RwZ3V0eHcuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBucy0xMDEuYXdzZG5zLTEyLmNvbS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgLSBucy0xMjk1LmF3c2Rucy0zMy5vcmcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBtb2NrLXNjb3V0ZXIuZGV2LmFpbWVldHMuanAK</text>
+        <text encoding="base64">ICAgICAgLSBucy04NTMuYXdzZG5zLTQyLm5ldC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgLSBucy0xNjYyLmF3c2Rucy0xNS5jby51ay4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
