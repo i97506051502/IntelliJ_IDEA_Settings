@@ -353,6 +353,7 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/common/templates/custom-std_api.py" timestamp="1518667536859" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/common/tasks/install_yum_packages.yaml" timestamp="1518607684056" />
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-app-001-2.yaml" timestamp="1518527131624">
         <mark key="[" line="44" column="27" />
