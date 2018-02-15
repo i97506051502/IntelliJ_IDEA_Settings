@@ -9,6 +9,13 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" timestamp="1518677711776">
+        <mark key="'" line="355" column="0" />
+        <mark key="[" line="389" column="30" />
+        <mark key="]" line="389" column="30" />
+        <mark key="." line="389" column="30" />
+        <mark key="^" line="389" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-route53-records-dev-2.yaml" timestamp="1518614280677">
         <mark key="[" line="56" column="24" />
         <mark key="]" line="56" column="37" />
@@ -414,23 +421,18 @@
         <mark key="." line="33" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible2/roles/app/tasks/install_yum_packages.yaml" timestamp="1518610025550" />
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518575664287">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" timestamp="1518677675674">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="378" column="36" />
+        <mark key="^" line="371" column="53" />
+        <mark key="." line="377" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/common/tasks/install_yum_packages.yaml" timestamp="1518170930266">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1518612007278">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/hosts" timestamp="1518409339781">
         <mark key="[" line="4" column="18" />
@@ -588,14 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="17" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="86" column="33" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="90" column="28" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="128" column="21" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="155" column="46" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="158" column="38" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="58" column="10" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
-      <jump line="1" column="32" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="4" column="19" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="8" column="32" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="11" column="19" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
@@ -688,46 +682,54 @@
       <jump line="52" column="24" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-route53-records-dev-2.yaml" />
       <jump line="74" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-route53-records-dev-2.yaml" />
       <jump line="59" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-route53-ns-records.yaml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" />
+      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" />
+      <jump line="332" column="25" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" />
+      <jump line="356" column="24" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="322" column="8" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="71" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-s3-buckets.yaml" />
+      <jump line="355" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation2/aimeets-s3-buckets-2.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">bGtkZmpsa2RqZmxrZGprbGZqYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>aimeetsdbinstancedev.cvbs2oo5fmgv.ap-northeast-2.rds.amazonaws.com'</text>
+        <text>SinglePageApplication</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
       </register>
-      <register name="0" type="4">
-        <text>{{environment_prefix}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2Fybjphd3M6czM6OjonLCAndGVhc2VyLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcvKiddXQogICAgICAgICAgICAtICFJZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICAtICFJZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICAtICFKb2luIFsnJywgWyd0ZWFzZXIuJywgIVJlZiBFbnZpcm9ubWVudFR5cGUsICcuJywgIVJlZiBTZXJ2aWNlRG9tYWluTmFtZV1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkaXNfbG9jYXRpb246ICdkZXYtYWltZWV0cy1lYy1yZWRpcy5xanVlMHEuMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tJwo=</text>
+        <text encoding="base64">ICAgICAgICAtIElzVGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jaDU5d2RwZ3V0eHcuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xMDEuYXdzZG5zLTEyLmNvbS4K</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jbHZwd2JtMjh4YXYuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xMjk1LmF3c2Rucy0zMy5vcmcuCg==</text>
+        <text encoding="base64">cmVkaXNfbG9jYXRpb246ICdkZXYtYWltZWV0cy1lYy1yZWRpcy5xanVlMHEuMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBucy04NTMuYXdzZG5zLTQyLm5ldC4K</text>
+        <text encoding="base64">ZGF0YWJhc2VfaG9zdF91cmk6ICdhaW1lZXRzZGJpbnN0YW5jZWRldi5jaDU5d2RwZ3V0eHcuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBucy0xNjYyLmF3c2Rucy0xNS5jby51ay4K</text>
+        <text encoding="base64">ICAgICAgLSBucy0xMDEuYXdzZG5zLTEyLmNvbS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBucy0xMjk1LmF3c2Rucy0zMy5vcmcuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
