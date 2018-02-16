@@ -88,12 +88,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518602266437">
-        <mark key="'" line="151" column="9" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="152" column="9" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518772354790">
+        <mark key="'" line="152" column="9" />
+        <mark key="[" line="129" column="57" />
+        <mark key="]" line="133" column="35" />
+        <mark key="^" line="153" column="9" />
+        <mark key="." line="133" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518669386531">
         <mark key="'" line="164" column="4" />
