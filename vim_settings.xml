@@ -94,8 +94,8 @@
         <mark key="]" line="175" column="56" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518849919213">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518851533489">
+        <mark key="'" line="11" column="31" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="^" line="175" column="16" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="78" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development/group_vars/app_servers/app_servers.yaml" />
       <jump line="178" column="22" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/common/templates/app_awslogs.conf.jinja2" />
       <jump line="124" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/common/templates/app_awslogs.conf.jinja2" />
@@ -348,6 +347,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/inventories/development2/group_vars/app_servers/app_servers.yaml" />
       <jump line="168" column="15" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
+      <jump line="11" column="31" filename="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
