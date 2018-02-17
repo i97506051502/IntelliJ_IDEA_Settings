@@ -88,10 +88,10 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518849699651">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518858117096">
         <mark key="'" line="152" column="9" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="56" />
+        <mark key="[" line="153" column="34" />
+        <mark key="]" line="153" column="68" />
         <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518851533489">
@@ -359,8 +359,8 @@
       <register name="/" type="4">
         <text>var</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBJc0RldmVsb3BtZW50CiAgICAgICAgICAgIC0gIUpvaW4gWycnLCBbJ2Fybjphd3M6czM6OjonLCAndGVhc2VyLicsICFSZWYgRW52aXJvbm1lbnRUeXBlLCAnLicsICFSZWYgU2VydmljZURvbWFpbk5hbWUsICcvKiddXQogICAgICAgICAgICAtICFJZgo=</text>
+      <register name="0" type="4">
+        <text>AmazonEC2ContainerRegistryPowerUser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIGFybjphd3M6aWFtOjphd3M6cG9saWN5L0FtYXpvblMzUmVhZE9ubHlBY2Nlc3MK</text>
