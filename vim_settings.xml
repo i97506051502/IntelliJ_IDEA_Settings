@@ -88,11 +88,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1518858117096">
+      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-iam-roles.yaml" timestamp="1519008656888">
         <mark key="'" line="152" column="9" />
-        <mark key="[" line="153" column="34" />
-        <mark key="]" line="153" column="68" />
-        <mark key="." line="175" column="0" />
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/tasks/preparate_app.yaml" timestamp="1518851533489">
         <mark key="'" line="11" column="31" />
@@ -168,12 +169,6 @@
         <mark key="]" line="378" column="36" />
         <mark key="^" line="371" column="53" />
         <mark key="." line="377" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/ansible/roles/app/templates/run_gunicorn_scouter_mock_api.sh" timestamp="1518612007278">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/leadingmark/github/aimeets_infra/cloudformation/aimeets-ec2-bastion-001.yaml" timestamp="1518494548544">
         <mark key="'" line="87" column="27" />
